@@ -1,11 +1,29 @@
 Team18
 1.data
-  Baseball Reference
-  BBO
-2.application design
-  web
-3.work plan
+  (1) Introduction to the date:
 
+  (2) tables:
+
+  (3) data source:
+      Baseball Reference
+      BBO
+
+  (4) link:
+  
+2.application design (web)
+  (1) Main idea:
+
+  (2) Functionality:
+
+  (3) Interface:
+      web
+3.work plan
+  (1) Time schedule
+
+  (2) Discussion
+
+  (3) Repo
+      github: https://github.com/chan9988/2020database_team18.git
 
 
 0716318張竣翔
