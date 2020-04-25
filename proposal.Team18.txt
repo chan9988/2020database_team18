@@ -10,25 +10,41 @@ Team18
   (2) tables:
       主要有兩類型的tables:
       第一類: 球員的真實數據
-      欄位說明:
+      	table name: Batting	
+      	a. player_name: 球員姓名
+      	b. team: 所屬球隊
+      	c. year: 哪一年的數據
+      	d. G: 出賽場次
+      	e. PO: 守備機會
+      	f. A: 助殺
+      	g. E: 失誤
+
+      	table name: Fielding
+      	a. player_name: 球員姓名
+      	b. team: 所屬球隊
+      	c. year: 哪一年的數據
+      	d. G: 出賽場次
+      	e. PO: 守備機會
+      	f. A: 助殺
+      	g. E: 失誤
 
       第二類: 遊戲內的球員能力數據
-      欄位說明:
-      a. player_id: primary key，球員編號，依序排列
-      b. player_name: 球員姓名
-      c. team: 所屬球隊
-      d. year: 哪一年的數據
-      e. 等級: 球員卡的等級
-      f. 力量: 球員力量的數值
-      g. 打擊: 球員打擊的數值
-      h. 速度: 球員速度的數值
-      i. 傳球: 球員傳球的數值
-      j. 守備: 球員守備的數值
+      	table name: Game
+      	a. player_id: primary key，球員編號，依序排列
+      	b. player_name: 球員姓名
+      	c. team: 所屬球隊
+      	d. year: 哪一年的數據
+      	e. 等級: 球員卡的等級
+      	f. 力量: 球員力量的數值
+      	g. 打擊: 球員打擊的數值
+      	h. 速度: 球員速度的數值
+      	i. 傳球: 球員傳球的數值
+      	j. 守備: 球員守備的數值
 
   (3) data source:
-      Baseball Reference: 
+      Baseball Reference: 一個提供球員歷年數據的網站
   
-      BBO:
+      BBO: 一個棒球遊戲，我們將遊戲內部的資料做成我們要的表格
 
   (4) link:
       Baseball Reference: https://www.baseball-reference.com/
