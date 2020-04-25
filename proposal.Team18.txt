@@ -11,13 +11,19 @@ Team18
       主要有兩類型的tables:
       第一類: 球員的真實數據
       	table name: Batting	
-      	a. player_name: 球員姓名
-      	b. team: 所屬球隊
-      	c. year: 哪一年的數據
-      	d. G: 出賽場次
-      	e. PO: 守備機會
-      	f. A: 助殺
-      	g. E: 失誤
+   	a. player_name: 球員姓名
+   	b. team: 所屬球隊
+   	c. year: 哪一年的數據
+   	d. PA: 打席
+   	e. AB: 打數
+   	f. H: 安打數
+   	g. 2B: 二壘安打數
+   	h. 3B: 三壘安打數
+   	i. HR: 全壘打數
+        j. BA: 打擊率
+        k. SB: 盜壘成功數
+        l. CS: 盜壘失敗數
+
 
       	table name: Fielding
       	a. player_name: 球員姓名
