@@ -3,6 +3,9 @@ Team18
 
 1.data
   (1) Introduction to the date:
+      我們這次做的主題是某知名棒球遊戲的球員數據與真實數據的比較及偏袒程度。
+      除了讓使用者認識更多球員，並分析當中的商業行為。
+      我們所需的資料分兩部分，一是全員當年度的真實成績，二是球員當年度在遊戲內的能力數據。
 
   (2) tables:
       主要有兩類型的tables:
@@ -23,12 +26,17 @@ Team18
       j. 守備: 球員守備的數值
 
   (3) data source:
-      Baseball Reference:  
+      Baseball Reference: 
+  
       BBO:
 
   (4) link:
       Baseball Reference: https://www.baseball-reference.com/
       BBO: https://bbrs.wasabii.com.tw/index.aspx
+
+  (5) Other information:
+      因為目前我們想到的或許還沒有很全面，所以未來在做的時候，如果有更好的想法會在更新table，
+      可能會增加欄位，讓我們的評判標準更準確。
 
 2.application design (web)
   (1) Main idea:
@@ -53,6 +61,7 @@ Team18
       b. 再依據所需的資料，上網以及到遊戲裡將所需的真實資料與遊戲資料撈出，並做出我們需要的表格
       c. 討論網頁呈現的方式及設計網頁
       d. 討論完後開始做網頁
+
   (2) Discussion
       hankmd: https://hackmd.io/@chan9988/HJJ584ZKI
 
