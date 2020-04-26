@@ -137,59 +137,59 @@ player_id,player_name,team,year,等級,力量,打擊,速度,傳球,守備
 136,Brandon Lowe,Tampa Bay Rays,19,N,77,65,76,74,76
 137,Austin Meadows,Tampa Bay Rays,19,N,80,67,75,77,78
 138,Avisail Garcia,Tampa Bay Rays,19,N,77,68,74,77,78
-139,,,19,,,,,,
-140,,,19,,,,,,
-141,,,19,,,,,,
-142,,,19,,,,,,
-143,,,19,,,,,,
-144,,,19,,,,,,
-145,,,19,,,,,,
-146,,,19,,,,,,
-147,,,19,,,,,,
-148,,,19,,,,,,
-149,,,19,,,,,,
-150,,,19,,,,,,
-151,,,19,,,,,,
-152,,,19,,,,,,
-153,,,19,,,,,,
-154,,,19,,,,,,
-155,,,19,,,,,,
-156,,,19,,,,,,
-157,,,19,,,,,,
-158,,,19,,,,,,
-159,,,19,,,,,,
-160,,,19,,,,,,
-161,,,19,,,,,,
-162,,,19,,,,,,
-163,,,19,,,,,,
-164,,,19,,,,,,
-165,,,19,,,,,,
-166,,,19,,,,,,
-167,,,19,,,,,,
-168,,,19,,,,,,
-169,,,19,,,,,,
-170,,,19,,,,,,
-171,,,19,,,,,,
-172,,,19,,,,,,
-173,,,19,,,,,,
-174,,,19,,,,,,
-175,,,19,,,,,,
-176,,,19,,,,,,
-177,,,19,,,,,,
-178,,,19,,,,,,
-179,,,19,,,,,,
-180,,,19,,,,,,
-181,,,19,,,,,,
-182,,,19,,,,,,
-183,,,19,,,,,,
-184,,,19,,,,,,
-185,,,19,,,,,,
-186,,,19,,,,,,
-187,,,19,,,,,,
-188,,,19,,,,,,
-189,,,19,,,,,,
-190,,,19,,,,,,
-191,,,19,,,,,,
+139,Whit Merrifield,Kansas City Royals,19,R,71,80,81,84,84
+140,Jorge Soler,Kansas City Royals,19,R,86,67,68,83,83
+141,Hunter Dozier,Kansas City Royals,19,R,81,68,72,83,82
+142,Whit Merrifield,Kansas City Royals,19,N,68,75,78,79,79
+143,Brett Phillips,Kansas City Royals,19,N,62,61,73,61,61
+144,Byan McBroom,Kansas City Royals,19,N,62,67,64,61,61
+145,Ryan O'Hearn,Kansas City Royals,19,N,75,64,62,64,68
+146,Nicky Lopez,Kansas City Royals,19,N,62,69,69,67,69
+147,Meibrys Viloria,Kansas City Royals,19,N,62,61,62,64,64
+148,Lucas Duda,Kansas City Royals,19,N,64,61,62,61,62
+149,Jorge Soler,Kansas City Royals,19,N,81,64,65,78,78
+150,Humberto Arteaga,Kansas City Royals,19,N,61,61,67,61,62
+151,Hunter Dozier,Kansas City Royals,19,N,76,65,69,78,77
+152,Cam Callagher,Kansas City Royals,19,N,64,63,62,64,64
+153,Cheslor Cuthbert,Kansas City Royals,19,N,70,68,64,65,66
+154,Bubba Starling,Kansas City Royals,19,N,64,62,72,63,62
+155,Adalberto Mondesi,Kansas City Royals,19,N,66,75,87,75,77
+156,Alex Gordon,Kansas City Royals,19,N,67,76,70,79,80
+157,Rees McGuire,Toronto Blue Jays,19,N,67,69,62,63,64
+158,Vladimir Guerrero Jr.,Toronto Blue Jays,19,N,76,67,63,78,76
+159,Cavan Biggio,Toronto Blue Jays,19,N,76,63,80,75,77
+160,Teoscar Hernandez,Toronto Blue Jays,19,N,79,62,73,76,77
+161,Tandal Grichuk,Toronto Blue Jays,19,N,81,63,70,80,79
+162,Towdy Tellez,Toronto Blue Jays,19,N,78,62,65,76,76
+163,Luke Maile,Toronto Blue Jays,19,N,62,61,72,63,64
+164,Lourdes Gurriel,Toronto Blue Jays,19,N,78,67,74,74,76
+165,Justin Smoak,Toronto Blue Jays,19,N,78,62,63,74,79
+166,Jonathan Davis,Toronto Blue Jays,19,N,62,61,71,61,61
+167,Derek Fisher,Toronto Blue Jays,19,N,68,61,77,62,62
+168,Danny Jansen,Toronto Blue Jays,19,N,67,70,65,76,75
+169,Billy McKinney,Toronto Blue Jays,19,N,73,64,68,65,64
+170,Bo Bichette,Toronto Blue Jays,19,N,68,77,69,74,74
+171,Brandon Drury,Toronto Blue Jays,19,N,76,67,63,70,68
+172,Matt Chapman,Oakland Athletics,19,R,85,66,69,84,84
+173,Ramon Laureano,Oakland Athletics,19,R,74,78,78,81,82
+174,Mark Canha,Oakland Athletics,19,R,81,68,72,81,82
+175,Matt Olson,Oakland Athletics,19,R,85,67,64,81,83
+176,Marcus Semien,Oakland Athletics,19,R,84,71,76,84,84
+177,Matt Chapman,Oakland Athletics,19,N,80,63,66,79,79
+178,Josh Phegley,Oakland Athletics,19,N,73,67,64,66,65
+179,Stephen Piscotty,Oakland Athletics,19,N,67,72,70,75,76
+180,Seth Brown,Oakland Athletics,19,N,62,67,77,61,61
+181,Robbie Grossman,Oakland Athletics,19,N,63,72,74,76,77
+182,Ramon Laureano,Oakland Athletics,19,N,71,73,75,76,77
+183,Nick Hundley,Oakland Athletics,19,N,63,61,68,62,62
+184,Mark Canha,Oakland Athletics,19,N,76,65,69,76,77
+185,Matt Olson,Oakland Athletics,19,N,80,64,61,76,78
+186,Marcus Semien,Oakland Athletics,19,N,79,68,73,79,79
+187,Khris Davis,Oakland Athletics,19,N,76,67,62,70,70
+188,Jurickson Profar,Oakland Athletics,19,N,77,63,75,76,78
+189,Dustin Garneau,Oakland Athletics,19,N,64,63,64,63,63
+190,Chris Herrmann,Oakland Athletics,19,N,62,61,62,63,62
+191,Chad Pinder,Oakland Athletics,19,N,67,72,65,75,76
 192,,,19,,,,,,
 193,,,19,,,,,,
 194,,,19,,,,,,
