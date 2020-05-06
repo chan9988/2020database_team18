@@ -279,106 +279,106 @@ player_id,player_name,team,year,等級,力量,打擊,速度,傳球,守備
 278,Ehire Adrianza,Minnesota Twins,19,N,66,68,70,64,63
 279,C.J. Cron,Minnesota Twins,19,N,79,65,63,75,78
 280,Byron Buxton,Minnesota Twins,19,N,67,73,84,74,75
-281,,,19,,,,,,
-282,,,19,,,,,,
-283,,,19,,,,,,
-284,,,19,,,,,,
-285,,,19,,,,,,
-286,,,19,,,,,,
-287,,,19,,,,,,
-288,,,19,,,,,,
-289,,,19,,,,,,
-290,,,19,,,,,,
-291,,,19,,,,,,
-292,,,19,,,,,,
-293,,,19,,,,,,
-294,,,19,,,,,,
-295,,,19,,,,,,
-296,,,19,,,,,,
-297,,,19,,,,,,
-298,,,19,,,,,,
-299,,,19,,,,,,
-300,,,19,,,,,,
-301,,,19,,,,,,
-302,,,19,,,,,,
-303,,,19,,,,,,
-304,,,19,,,,,,
-305,,,19,,,,,,
-306,,,19,,,,,,
-307,,,19,,,,,,
-308,,,19,,,,,,
-309,,,19,,,,,,
-310,,,19,,,,,,
-311,,,19,,,,,,
-312,,,19,,,,,,
-313,,,19,,,,,,
-314,,,19,,,,,,
-315,,,19,,,,,,
-316,,,19,,,,,,
-317,,,19,,,,,,
-318,,,19,,,,,,
-319,,,19,,,,,,
-320,,,19,,,,,,
-321,,,19,,,,,,
-322,,,19,,,,,,
-323,,,19,,,,,,
-324,,,19,,,,,,
-325,,,19,,,,,,
-326,,,19,,,,,,
-327,,,19,,,,,,
-328,,,19,,,,,,
-329,,,19,,,,,,
-330,,,19,,,,,,
-331,,,19,,,,,,
-332,,,19,,,,,,
-333,,,19,,,,,,
-334,,,19,,,,,,
-335,,,19,,,,,,
-336,,,19,,,,,,
-337,,,19,,,,,,
-338,,,19,,,,,,
-339,,,19,,,,,,
-340,,,19,,,,,,
-341,,,19,,,,,,
-342,,,19,,,,,,
-343,,,19,,,,,,
-344,,,19,,,,,,
-345,,,19,,,,,,
-346,,,19,,,,,,
-347,,,19,,,,,,
-348,,,19,,,,,,
-349,,,19,,,,,,
-350,,,19,,,,,,
-351,,,19,,,,,,
-352,,,19,,,,,,
-353,,,19,,,,,,
-354,,,19,,,,,,
-355,,,19,,,,,,
-356,,,19,,,,,,
-357,,,19,,,,,,
-358,,,19,,,,,,
-359,,,19,,,,,,
-360,,,19,,,,,,
-361,,,19,,,,,,
-362,,,19,,,,,,
-363,,,19,,,,,,
-364,,,19,,,,,,
-365,,,19,,,,,,
-366,,,19,,,,,,
-367,,,19,,,,,,
-368,,,19,,,,,,
-369,,,19,,,,,,
-370,,,19,,,,,,
-371,,,19,,,,,,
-372,,,19,,,,,,
-373,,,19,,,,,,
-374,,,19,,,,,,
-375,,,19,,,,,,
-376,,,19,,,,,,
-377,,,19,,,,,,
-378,,,19,,,,,,
-379,,,19,,,,,,
-380,,,19,,,,,,
+281,Xander Bogaerts,Boston Red Sox,19,R,85,71,68,83,84
+282,Rafael Devers,Boston Red Sox,19,R,85,71,74,74,74
+283,Mookie Betts,Boston Red Sox,19,R,73,71,80,84,84
+284,J.D. Martinez,Boston Red Sox,19,R,86,71,69,81,83
+285,Sam Travis,Boston Red Sox,19,N,67,62,72,62,62
+286,Xander Bogaerts,Boston Red Sox,19,N,80,68,65,78,79
+287,Sandy Leon,Boston Red Sox,19,N,65,61,62,64,65
+288,Rafael Devers,Boston Red Sox,19,N,80,68,71,79,79
+289,Marco Hernandez,Boston Red Sox,19,N,62,65,66,62,62
+290,Mookie Betts,Boston Red Sox,19,N,78,68,77,79,79
+291,Mitch Moreland,Boston Red Sox,19,N,78,64,69,74,76
+292,Michael Chavis,Boston Red Sox,19,N,77,64,67,74,77
+293,J.D. Martinez,Boston Red Sox,19,N,81,68,66,77,78
+294,Jackie Bradley,Boston Red Sox,19,N,78,62,73,78,78
+295,Eduardo Nunez,Boston Red Sox,19,N,62,63,71,62,62
+296,Chris Owings,Boston Red Sox,19,N,63,61,74,62,63
+297,Christian Vazquez,Boston Red Sox,19,N,78,68,68,77,77
+298,Brock Holt,Boston Red Sox,19,N,63,77,71,74,75
+299,Andrew Benintendi,Boston Red Sox,19,N,67,76,75,79,79
+300,Mike Trout,Los Angeles Angels,19,P,87,75,78,87,88
+301,Shohei Ohtani,Los Angeles Angels,19,R,73,78,78,80,80
+302,Mike Trout,Los Angeles Angels,19,R,82,69,71,80,82
+303,David Fletcher,Los Angeles Angels,19,R,64,81,73,83,83
+304,Shohei Ohtani,Los Angeles Angels,19,N,70,73,75,75,75
+305,Zack Cozart,Los Angeles Angels,19,N,61,61,62,61,62
+306,Tommy La Stella,Los Angeles Angels,19,N,76,69,65,75,75
+307,Matt Thaiss,Los Angeles Angels,19,N,69,61,62,62,62
+308,Mike Trout,Los Angeles Angels,19,N,77,66,68,75,77
+309,Max Stassi,Los Angeles Angels,19,N,62,61,62,64,64
+310,Luis Rengifo,Los Angeles Angels,19,N,65,71,69,76,76
+311,Kevan Smith,Los Angeles Angels,19,N,66,66,68,65,65
+312,Kole Calhoun,Los Angeles Angels,19,N,81,63,70,80,79
+313,Justin Bour,Los Angeles Angels,19,N,69,61,62,62,62
+314,Juntin Upton,Los Angeles Angels,19,N,67,70,67,74,74
+315,David Fletcher,Los Angeles Angels,19,N,61,78,70,78,78
+316,Brain Goodwin,Los Angeles Angels,19,N,76,66,75,76,77
+317,Andrelton Simmons,Los Angeles Angels,19,N,65,76,73,76,76
+318,Albert Pujols,Los Angeles Angels,19,N,78,65,67,77,78
+319,Trevor Story,Colorado Rockies,19,R,86,69,82,83,84
+320,Nolan Arenado,Colorado Rockies,19,R,86,73,68,84,83
+321,David Dahl,Colorado Rockies,19,R,71,79,76,80,80
+322,Charlie Blackmon,Colorado Rockies,19,R,85,71,72,83,83
+323,Tony Wolters,Colorado Rockies,19,N,62,71,64,68,68
+324,Yonder Alonso,Colorado Rockies,19,N,70,63,62,65,66
+325,Yonathan Daza,Colorado Rockies,19,N,61,61,73,61,62
+326,Trevor Story,Colorado Rockies,19,N,81,66,79,78,79
+327,Sam Hilliard,Colorado Rockies,19,N,69,65,78,61,61
+328,Ryan McMahon,Colorado Rockies,19,N,79,65,71,77,78
+329,Raimel Tapia,Colorado Rockies,19,N,66,77,76,75,77
+330,Molan Arenado,Colorado Rockies,19,N,81,70,65,79,78
+331,Mark Reynolds,Colorado Rockies,19,N,64,61,68,62,62
+332,Ian Desmond,Colorado Rockies,19,N,77,66,72,76,77
+333,Garrett Hampson,Colorado Rockies,19,N,69,68,81,65,66
+334,David Dahl,Colorado Rockies,19,N,68,74,73,75,75
+335,Daniel Murphy,Colorado Rockies,19,N,67,77,66,76,77
+336,Charlie Blackmon,Colorado Rockies,19,N,80,68,69,78,78
+337,Chris Iannetta,Colorado Rockies,19,N,67,62,62,64,65
+338,Pete Alonso,New York Mets,19,R,86,66,68,84,84
+339,Michael Conforto,New York Mets,19,R,83,67,72,83,83
+340,Jeff McNeil,New York Mets,19,R,74,83,70,82,83
+341,J.D. Davis,New York Mets,19,R,74,81,71,81,81
+342,Luis Guillorme,New York Mets,19,N,63,63,64,61,61
+343,Brandon Nimmo,New York Mets,19,N,65,70,74,74,74
+344,Wilson Ramos,New York Mets,19,N,68,79,65,77,77
+345,Todd Frazier,New York Mets,19,N,78,65,66,77,76
+346,Tomas Nido,New York Mets,19,N,64,61,62,64,64
+347,Robinson Cano,New York Mets,19,N,67,74,64,75,77
+348,Pete Alonso,New York Mets,19,N,81,63,65,79,79
+349,Michael Conforto,New York Mets,19,N,78,64,79,78,78
+350,Jeff McNeil,New York Mets,19,N,71,78,67,77,78
+351,Juan Lagares,New York Mets,19,N,65,63,73,64,65
+352,Joe Panik,New York Mets,19,N,65,69,69,70,72
+353,J.D. Davis,New York Mets,19,N,71,76,68,76,76
+354,Dominic Smith,New York Mets,19,N,73,68,65,62,63
+355,Carlos Gomez,New York Mets,19,N,63,61,72,61,61
+356,Amed Rosario,New York Mets,19,N,76,69,78,80,80
+357,Luke Voit,New York Yankees,19,R,73,78,65,82,82
+358,Gary Sanchez,New York Yankees,19,R,84,63,65,81,81
+359,Gleyber Torres,New York Yankees,19,R,85,69,71,83,83
+360,Gio Urshela,New York Yankees,19,R,74,81,67,81,81
+361,Edwin Encarnacion,New York Yankees,19,R,84,65,65,81,82
+362,DJ LeMahieu,New York Yankees,19,R,81,74,73,83,84
+363,Brett Gardner,New York Yankees,19,R,82,66,80,82,83
+364,Aaron Judge,New York Yankees,19,R,82,66,71,82,80
+365,Mike Tauchman,New York Yankees,19,N,68,75,76,74,75
+366,Didi Gregorius,New York Yankees,19,N,76,63,71,74,76
+367,Miguel Andujar,New York Yankees,19,N,61,61,62,61,61
+368,Luke Voit,New York Yankees,19,N,70,73,63,77,77
+369,Kendry Morales,New York Yankees,19,N,62,61,64,63,63
+370,Gary Sanchez,New York Yankees,19,N,79,60,62,76,76
+371,Gleyber Torres,New York Yankees,19,N,80,66,68,78,78
+372,Gio Urshela,New York Yankees,19,N,71,76,64,76,76
+373,Edwin Encarnacion,New York Yankees,19,N,79,62,62,76,77
+374,DJ LeMahieu,New York Yankees,19,N,76,71,70,78,79
+375,Cameron Maybin,New York Yankees,19,N,67,76,73,74,74
+376,Clint Frazier,New York Yankees,19,N,73,68,64,64,63
+377,Brett Gardner,New York Yankees,19,N,77,63,77,77,78
+378,Aaron Judge,New York Yankees,19,N,77,63,68,77,75
+379,Austin Romine,New York Yankees,19,N,69,69,64,65,65
+380,Aaron Hicks,New York Yankees,19,N,67,70,66,74,74
 381,,,19,,,,,,
 382,,,19,,,,,,
 383,,,19,,,,,,
