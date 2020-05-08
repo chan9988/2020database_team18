@@ -395,131 +395,131 @@ player_id,player_name,team,year,等級,力量,打擊,速度,傳球,守備
 394,Eric Hosmer,San Diego Padres,19,N,78,67,64,80,80
 395,Austin Hedges,San Diego Padres,19,N,71,61,65,66,65
 396,Austin Allen,San Diego Padres,19,N,61,61,62,62,62
-397,,,19,,,,,,
-398,,,19,,,,,,
-399,,,19,,,,,,
-400,,,19,,,,,,
-401,,,19,,,,,,
-402,,,19,,,,,,
-403,,,19,,,,,,
-404,,,19,,,,,,
-405,,,19,,,,,,
-406,,,19,,,,,,
-407,,,19,,,,,,
-408,,,19,,,,,,
-409,,,19,,,,,,
-410,,,19,,,,,,
-411,,,19,,,,,,
-412,,,19,,,,,,
-413,,,19,,,,,,
-414,,,19,,,,,,
-415,,,19,,,,,,
-416,,,19,,,,,,
-417,,,19,,,,,,
-418,,,19,,,,,,
-419,,,19,,,,,,
-420,,,19,,,,,,
-421,,,19,,,,,,
-422,,,19,,,,,,
-423,,,19,,,,,,
-424,,,19,,,,,,
-425,,,19,,,,,,
-426,,,19,,,,,,
-427,,,19,,,,,,
-428,,,19,,,,,,
-429,,,19,,,,,,
-430,,,19,,,,,,
-431,,,19,,,,,,
-432,,,19,,,,,,
-433,,,19,,,,,,
-434,,,19,,,,,,
-435,,,19,,,,,,
-436,,,19,,,,,,
-437,,,19,,,,,,
-438,,,19,,,,,,
-439,,,19,,,,,,
-440,,,19,,,,,,
-441,,,19,,,,,,
-442,,,19,,,,,,
-443,,,19,,,,,,
-444,,,19,,,,,,
-445,,,19,,,,,,
-446,,,19,,,,,,
-447,,,19,,,,,,
-448,,,19,,,,,,
-449,,,19,,,,,,
-450,,,19,,,,,,
-451,,,19,,,,,,
-452,,,19,,,,,,
-453,,,19,,,,,,
-454,,,19,,,,,,
-455,,,19,,,,,,
-456,,,19,,,,,,
-457,,,19,,,,,,
-458,,,19,,,,,,
-459,,,19,,,,,,
-460,,,19,,,,,,
-461,,,19,,,,,,
-462,,,19,,,,,,
-463,,,19,,,,,,
-464,,,19,,,,,,
-465,,,19,,,,,,
-466,,,19,,,,,,
-467,,,19,,,,,,
-468,,,19,,,,,,
-469,,,19,,,,,,
-470,,,19,,,,,,
-471,,,19,,,,,,
-472,,,19,,,,,,
-473,,,19,,,,,,
-474,,,19,,,,,,
-475,,,19,,,,,,
-476,,,19,,,,,,
-477,,,19,,,,,,
-478,,,19,,,,,,
-479,,,19,,,,,,
-480,,,19,,,,,,
-481,,,19,,,,,,
-482,,,19,,,,,,
-483,,,19,,,,,,
-484,,,19,,,,,,
-485,,,19,,,,,,
-486,,,19,,,,,,
-487,,,19,,,,,,
-488,,,19,,,,,,
-489,,,19,,,,,,
-490,,,19,,,,,,
-491,,,19,,,,,,
-492,,,19,,,,,,
-493,,,19,,,,,,
-494,,,19,,,,,,
-495,,,19,,,,,,
-496,,,19,,,,,,
-497,,,19,,,,,,
-498,,,19,,,,,,
-499,,,19,,,,,,
-500,,,19,,,,,,
-501,,,19,,,,,,
-502,,,19,,,,,,
-503,,,19,,,,,,
-504,,,19,,,,,,
-505,,,19,,,,,,
-506,,,19,,,,,,
-507,,,19,,,,,,
-508,,,19,,,,,,
-509,,,19,,,,,,
-510,,,19,,,,,,
-511,,,19,,,,,,
-512,,,19,,,,,,
-513,,,19,,,,,,
-514,,,19,,,,,,
-515,,,19,,,,,,
-516,,,19,,,,,,
-517,,,19,,,,,,
-518,,,19,,,,,,
-519,,,19,,,,,,
-520,,,19,,,,,,
-521,,,19,,,,,,
+397,Paul Goldschmidt,St. Louis Cardinals,19,R,83,67,68,83,84
+398,Kolten Wong,St. Louis Cardinals,19,R,67,79,81,82,82
+399,Paul DeJong,St. Louis Cardinals,19,R,81,64,73,83,84
+400,Paul Goldschmidt,St. Louis Cardinals,19,N,78,64,65,78,79
+401,Kolten Wong,St. Louis Cardinals,19,N,64,74,78,77,77
+402,Yairo Munoz,St. Louis Cardinals,19,N,63,67,74,62,63
+403,Yadier Molina,St. Louis Cardinals,19,N,66,78,71,77,76
+404,Tyler O'Neill,St. Louis Cardinals,19,N,66,66,68,62,62
+405,Tommy Edman,St. Louis Cardinals,19,N,68,79,85,76,74
+406,Paul DeJong,St. Louis Cardinals,19,N,76,71,70,78,79
+407,Matt Wieters,St. Louis Cardinals,19,N,72,61,62,65,64
+408,Marcell Ozuna,St. Louis Cardinals,19,N,80,64,76,77,78
+409,Matt Carpenter,St. Louis Cardinals,19,N,76,62,71,76,77
+410,Lane Thomas,St. Louis Cardinals,19,N,66,69,72,61,61
+411,Jose Martinez,St. Louis Cardinals,19,N,66,76,73,76,75
+412,Harrison Bader,St. Louis Cardinals,19,N,67,70,79,76,76
+413,Dexter Fowler,St. Louis Cardinals,19,N,77,64,70,78,78
+414,Andrew Knizner,St. Louis Cardinals,19,N,63,61,73,62,61
+415,Mike Yastrzemski,San Francisco Giants,19,R,74,78,71,80,80
+416,Mike Yastrzemski,San Francisco Giants,19,N,71,73,68,75,75
+417,Scooter Gennett,San Francisco Giants,19,N,62,62,65,61,62
+418,Steven Duggar,San Francisco Giants,19,N,64,65,68,64,65
+419,Stephen Vogt,San Francisco Giants,19,N,66,73,71,75,74
+420,Pablo Sandoval,San Francisco Giants,19,N,69,74,68,74,75
+421,Mauricio Dubon,San Francisco Giants,19,N,65,66,69,61,62
+422,Kevin Pillar,San Francisco Giants,19,N,78,67,77,79,80
+423,Joey Rickard,San Francisco Giants,19,N,64,63,72,62,63
+424,Evan Longoria,San Francisco Giants,19,N,77,65,69,77,77
+425,Donovan Solano,San Francisco Giants,19,N,65,73,65,63,64
+426,Brandon Belt,San Francisco Giants,19,N,76,63,69,79,79
+427,Buster Posey,San Francisco Giants,19,N,65,74,63,76,76
+428,Brandon Crowford,San Francisco Giants,19,N,72,68,68,73,73
+429,Alex Dickerson,San Francisco Giants,19,N,67,68,74,62,63
+430,Austin Slater,San Francisco Giants,19,N,66,64,73,62,63
+431,Wilson Contreras,Chicago Cubs,19,R,74,78,67,81,80
+432,Nick Castellanos,Chicago Cubs,19,R,82,70,71,83,84
+433,Kris Bryant,Chicago Cubs,19,R,84,69,72,83,83
+434,Kyle Schwarber,Chicago Cubs,19,R,85,65,68,83,83
+435,Javier Baez,Chicago Cubs,19,R,83,68,78,82,83
+436,Anthony Rizzo,Chicago Cubs,19,R,82,71,72,82,84
+437,Wilson Contreras,Chicago Cubs,19,N,71,73,64,76,75
+438,Victor Caratini,Chicago Cubs,19,N,67,74,66,75,74
+439,Tony Kemp,Chicago Cubs,19,N,69,63,73,64,65
+440,Nick Castellanos,Chicago Cubs,19,N,77,67,68,78,79
+441,Kris Bryant,Chicago Cubs,19,N,81,64,69,78,78
+442,Kyle Schwarber,Chicago Cubs,19,N,80,62,65,78,78
+443,Jonathan Lucroy,Chicago Cubs,19,N,69,66,63,66,65
+444,Jason Heyward,Chicago Cubs,19,N,78,65,73,79,78
+445,Javier Baez,Chicago Cubs,19,N,78,65,75,77,78
+446,Daniel Descalso,Chicago Cubs,19,N,62,61,71,62,63
+447,David Bote,Chicago Cubs,19,N,67,74,70,75,76
+448,Ben Zobrist,Chicago Cubs,19,N,62,66,64,62,63
+449,Anthony Rizzo,Chicago Cubs,19,N,77,68,69,77,79
+450,Addison Russell,Chicago Cubs,19,N,70,65,71,63,64
+451,Albert Almora,Chicago Cubs,19,N,73,68,68,66,66
+452,Yoan Moncada,Chicago White Sox,19,R,81,71,77,82,83
+453,Tim Anderson,Chicago White Sox,19,R,73,84,76,82,82
+454,Jose Abreu,Chicago White Sox,19,R,84,69,66,84,84
+455,Eloy Jimenez,Chicago White Sox,19,R,84,67,68,83,81
+456,Yoan Moncada,Chicago White Sox,19,N,76,68,74,77,78
+457,Zack Collins,Chicago White Sox,19,N,63,61,68,65,65
+458,Yolmer Sanchez,Chicago White Sox,19,N,62,73,73,78,78
+459,Wellington Castillo,Chicago White Sox,19,N,73,63,62,65,66
+460,Tim Anderson,Chicago White Sox,19,N,70,79,73,77,77
+461,Ryan Goins,Chicago White Sox,19,N,62,65,64,62,62
+462,Ryan Cordell,Chicago White Sox,19,N,68,63,67,63,64
+463,Leury Garcia,Chicago White Sox,19,N,65,77,79,78,80
+464,James McCann,Chicago White Sox,19,N,77,67,69,77,76
+465,Jose Abreu,Chicago White Sox,19,N,79,66,63,79,79
+466,Jon Jay,Chicago White Sox,19,N,61,67,64,62,63
+467,Eloy Jimenez,Chicago White Sox,19,N,79,64,65,78,76
+468,Daniel Palka,Chicago White Sox,19,N,62,61,64,61,61
+469,Charlie Tilson,Chicago White Sox,19,N,62,63,73,62,62
+470,Adam Engel,Chicago White Sox,19,N,67,65,71,63,64
+471,Anthony Rendon,Washington Nationals,19,P,77,86,75,88,87
+472,Trea Turner,Washington Nationals,19,R,72,80,88,82,83
+473,Juan Soto,Washington Nationals,19,R,84,69,79,83,84
+474,Anthony Rendon,Washington Nationals,19,R,69,80,68,81,80
+475,Yan Gomes,Washington Nationals,19,N,67,70,67,75,76
+476,Wilmer Difo,Washington Nationals,19,N,62,64,63,61,62
+477,Victor Robles,Washington Nationals,19,N,76,66,82,79,79
+478,Trea Turner,Washington Nationals,19,N,69,75,85,77,78
+479,Ryan Zimmerman,Washington Nationals,19,N,63,63,76,61,61
+480,Matt Adams,Washington Nationals,19,N,77,62,63,75,75
+481,Kurt Suzuki,Washington Nationals,19,N,76,66,63,74,76
+482,Juan Soto,Washington Nationals,19,N,79,66,76,78,79
+483,Howie Kendrick,Washington Nationals,19,N,70,80,68,75,76
+484,Gerardo Parra,Washington Nationals,19,N,70,65,74,65,64
+485,Brian Dozier,Washington Nationals,19,N,77,64,64,75,78
+486,Anthony Rendon,Washington Nationals,19,N,66,75,65,76,75
+487,Asdrubal Cabrera,Washington Nationals,19,N,77,66,70,78,76
+488,Adam Eaton,Washington Nationals,19,N,76,68,80,80,80
+489,Dee Gordon,Seattle Mariners,19,N,64,73,80,67,69
+490,Omar Narvaez,Seattle Mariners,19,N,78,68,83,77,76
+491,Tim Beckham,Seattle Mariners,19,N,76,62,67,75,75
+492,Tom Murphy,Seattle Mariners,19,N,78,64,69,75,74
+493,Shed Long,Seattle Mariners,19,N,66,66,71,62,62
+494,Ryon Healy,Seattle Mariners,19,N,68,64,63,62,63
+495,Mitch Haniger,Seattle Mariners,19,N,76,62,76,75,74
+496,Mallex Smith,Seattle Mariners,19,N,66,68,86,73,73
+497,Kyle Seager,Seattle Mariners,19,N,78,64,66,77,75
+498,Keon Broxton,Seattle Mariners,19,N,66,61,74,63,64
+499,J.P. Crowford,Seattle Mariners,19,N,65,70,74,75,76
+500,Domingo Santana,Seattle Mariners,19,N,78,64,71,77,77
+501,Dylan Moore,Seattle Mariners,19,N,66,70,78,74,75
+502,Dan Vogelbach,Seattle Mariners,19,N,81,62,63,78,78
+503,Austin Nola,Seattle Mariners,19,N,66,74,70,74,74
+504,Scott Kingery,Philadelphia Phillies,19,R,72,78,81,81,82
+505,J.T. Realmuto,Philadelphia Phillies,19,R,80,69,76,83,82
+506,Bryce Harper,Philadelphia Phillies,19,R,85,66,76,84,83
+507,Brad Miller,Philadelphia Phillies,19,N,75,66,72,62,62
+508,Scott Kingery,Philadelphia Phillies,19,N,69,73,78,76,77
+509,Sean Rodriguez,Philadelphia Phillies,19,N,65,61,68,61,62
+510,Rhys Hoskins,Philadelphia Phillies,19,N,80,62,69,80,81
+511,Odubel Herrrera,Philadelphia Phillies,19,N,62,61,71,61,62
+512,Maikel Franco,Philadelphia Phillies,19,N,76,64,63,76,76
+513,J.T. Realmuto,Philadelphia Phillies,19,N,75,66,73,78,77
+514,Jean Segura,Philadelphia Phillies,19,N,67,79,76,79,79
+515,Jay Bruce,Philadelphia Phillies,19,N,80,62,68,75,75
+516,Cesar Hernandez,Philadelphia Phillies,19,N,68,77,73,80,80
+517,Corey Dickerson,Philadelphia Phillies,19,N,68,78,70,74,75
+518,Bryce Harper,Philadelphia Phillies,19,N,80,63,73,79,78
+519,Andrew McCutchen,Philadelphia Phillies,19,N,66,72,71,74,74
+520,Andrew Knapp,Philadelphia Phillies,19,N,62,61,62,64,65
+521,Adam Harseley,Philadelphia Phillies,19,N,66,68,72,63,64
 522,,,19,,,,,,
 523,,,19,,,,,,
 524,,,19,,,,,,
