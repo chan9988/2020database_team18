@@ -27,7 +27,7 @@ create table 19MLBGame(
 );
 
 create table 19CPBLBatting(
-	player_name int,
+	player_name varchar(30),
 	team varchar(15),
 	year	int,
 	PA		int,
@@ -42,7 +42,7 @@ create table 19CPBLBatting(
 );
 
 create table 19MLBBatting(
-	player_name int,
+	player_name varchar(30),
 	team varchar(15),
 	year	int,
 	PA		int,
@@ -57,7 +57,7 @@ create table 19MLBBatting(
 );
 
 create table 19CPBLFielding(
-	player_name int,
+	player_name varchar(30),
 	team varchar(15),
 	year	int,
 	G		int,
@@ -67,7 +67,7 @@ create table 19CPBLFielding(
 );
 
 create table 19MLBFielding(
-	player_name int,
+	player_name varchar(30),
 	team varchar(15),
 	year	int,
 	G		int,
