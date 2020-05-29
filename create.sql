@@ -12,88 +12,108 @@ create table 19CPBLGame(
 	primary key (player_id)
 );
 
+create table 19MLBGame(
+	player_id int,
+	player_name varchar(30),
+	team  varchar(15),
+	year	int,
+	等級	varchar(2),
+	力量	int,
+	打擊	int,
+	速度	int,
+	傳球	int,
+	守備	int,
+	primary key (player_id)
+);
+
+create table 19CPBLBatting(
+	player_name int,
+	team varchar(15),
+	year	int,
+	PA		int,
+	AB		int,
+	H		int,
+	2B		int,
+	3B		int,
+	HR		int,
+	BA		float,
+	SB		int,
+	CS		int
+);
+
+create table 19MLBBatting(
+	player_name int,
+	team varchar(15),
+	year	int,
+	PA		int,
+	AB		int,
+	H		int,
+	2B		int,
+	3B		int,
+	HR		int,
+	BA		float,
+	SB		int,
+	CS		int
+);
+
+create table 19CPBLFielding(
+	player_name int,
+	team varchar(15),
+	year	int,
+	G		int,
+	PO		int,
+	A		int,
+	E		int
+);
+
+create table 19MLBFielding(
+	player_name int,
+	team varchar(15),
+	year	int,
+	G		int,
+	PO		int,
+	A		int,
+	E		int
+);
+
 load data local infile './19CPBLGame.csv'
 into table 19CPBLGame
 fields terminated by ','
 enclosed by '"'
 lines terminated by '\r\n'
 ignore 1 lines;
-/*
-create table match_info(
-	match_id int not null,
-	duration int,
-	version varchar(15),
-	primary key (match_id)
-);
 
-load data local infile './matches.csv'
-into table match_info
+load data local infile './19MLBGame.csv'
+into table 19MLBGame
 fields terminated by ','
 enclosed by '"'
 lines terminated by '\r\n'
 ignore 1 lines;
 
-create table participant(
-	player_id int not null,
-	match_id int,
-	player tinyint,
-	champion_id int not null,
-	ss1 varchar(15),
-	ss2 varchar(15),
-	position varchar(13) not null,
-	primary key(player_id),
-	foreign key(match_id) references match_info (match_id)
-);
-
-load data local infile './participants.csv'
-into table participant
+load data local infile './19CPBLBatting.csv'
+into table 19CPBLBatting
 fields terminated by ','
 enclosed by '"'
 lines terminated by '\r\n'
 ignore 1 lines;
 
-create table teamban(
-	match_id int not null,
-	team char(1) not null,
-	champion_id int not null,
-	banturn tinyint not null,
-	primary key(match_id,banturn)
-);
-
-load data local infile './teambans.csv'
-into table teamban
+load data local infile './19MLBBatting.csv'
+into table 19MLBBatting
 fields terminated by ','
 enclosed by '"'
 lines terminated by '\r\n'
 ignore 1 lines;
 
-create table stat(
-	player_id int,
-	win boolean,
-	item1 smallint,
-	item2 smallint,
-	item3 smallint,
-	item4 smallint,
-	item5 smallint,
-	item6 smallint,
-	kills tinyint,
-	deaths tinyint,
-	assists tinyint,
-	longesttimespentliving smallint,
-	doublekills tinyint,
-	triplekills tinyint,
-	quadrakills tinyint,
-	pentakills tinyint,
-	legendarykills tinyint,
-	goldearned mediumint,
-	firstblood boolean,
-	primary key(player_id)
-);
-
-load data local infile './stats.csv'
-into table stat
+load data local infile './19CPBLFielding.csv'
+into table 19CPBLFielding
 fields terminated by ','
 enclosed by '"'
 lines terminated by '\r\n'
 ignore 1 lines;
-*/
+
+load data local infile './19MLBFielding.csv'
+into table 19MLBFielding
+fields terminated by ','
+enclosed by '"'
+lines terminated by '\r\n'
+ignore 1 lines;
