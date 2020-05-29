@@ -1,4 +1,4 @@
-create table 19CPGLGame(
+create table 19CPBLGame(
 	player_id int,
 	player_name varchar(30),
 	team  varchar(15),
@@ -12,8 +12,8 @@ create table 19CPGLGame(
 	primary key (player_id)
 );
 
-load data local infile './19CPGLGame.csv'
-into table 19CPGLGame
+load data local infile './19CPBLGame.csv'
+into table 19CPBLGame
 fields terminated by ','
 enclosed by '"'
 lines terminated by '\r\n'
