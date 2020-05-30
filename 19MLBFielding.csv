@@ -1,2 +1,2 @@
-player_name	team	year	G	PO	A	E
-abc	abc	0	0	0	0	0
+player_name,team,year,G,PO,A,E
+abc,abc ,0,0,0,0,0
