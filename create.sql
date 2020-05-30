@@ -1,7 +1,7 @@
 create table 19CPBLGame(
 	player_id int,
 	player_name varchar(30),
-	team  varchar(15),
+	team  varchar(30),
 	year	int,
 	等級	varchar(2),
 	力量	int,
@@ -15,7 +15,7 @@ create table 19CPBLGame(
 create table 19MLBGame(
 	player_id int,
 	player_name varchar(30),
-	team  varchar(15),
+	team  varchar(30),
 	year	int,
 	等級	varchar(2),
 	力量	int,
@@ -28,7 +28,7 @@ create table 19MLBGame(
 
 create table 19CPBLBatting(
 	player_name varchar(30),
-	team varchar(15),
+	team varchar(30),
 	year	int,
 	PA		int,
 	AB		int,
@@ -43,7 +43,7 @@ create table 19CPBLBatting(
 
 create table 19MLBBatting(
 	player_name varchar(30),
-	team varchar(15),
+	team varchar(30),
 	year	int,
 	PA		int,
 	AB		int,
@@ -58,7 +58,7 @@ create table 19MLBBatting(
 
 create table 19CPBLFielding(
 	player_name varchar(30),
-	team varchar(15),
+	team varchar(30),
 	year	int,
 	G		int,
 	PO		int,
@@ -68,7 +68,7 @@ create table 19CPBLFielding(
 
 create table 19MLBFielding(
 	player_name varchar(30),
-	team varchar(15),
+	team varchar(30),
 	year	int,
 	G		int,
 	PO		int,
@@ -111,9 +111,16 @@ enclosed by '"'
 lines terminated by '\r\n'
 ignore 1 lines;
 
+
+
 load data local infile './19MLBFielding.csv'
+
 into table 19MLBFielding
+
 fields terminated by ','
+
 enclosed by '"'
+
 lines terminated by '\r\n'
+
 ignore 1 lines;
