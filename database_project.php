@@ -23,9 +23,9 @@
 			<select name="team_name">
 				<option></option>
 				<option>Lamigo</option>
-                                <option>中信兄弟</option>
-                                <option>統一獅</option>
-                                <option>富邦悍將</option>
+                <option>中信兄弟</option>
+                <option>統一獅</option>
+                <option>富邦悍將</option>
 			</select>
 			player_name:
 			<select>
