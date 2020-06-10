@@ -60,4 +60,4 @@
 		<p> 2020 nctu database term project -- team 18</p>
 		</footer>
     </BODY>
-<HTML>
+</HTML>
