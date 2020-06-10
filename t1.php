@@ -1,6 +1,6 @@
 <HTML>
         <HEAD>
-                <meta charset="utf-i">
+                <meta charset="utf-8">
                 <title> database_project </title>               
         </HEAD>
         <BODY>
@@ -15,7 +15,7 @@
                         $password = "user";
                         $test = "select player_name from 19CPBLGame where player_id = 2";
                         $a = 1;
-                        $conn = new mysqli($servername, $username, $password,'test');
+                        $conn = new mysqli($servername, $username, $password,'project');
                         if ($conn->connect_error) {
                                 die("Connection failed: " . $conn->connect_error);
                         }

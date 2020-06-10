@@ -1,6 +1,6 @@
 <HTML>
         <HEAD>
-                <meta charset="utf-i">
+                <meta charset="utf-8">
                 <title> database_project </title>               
         </HEAD>
         <BODY>
