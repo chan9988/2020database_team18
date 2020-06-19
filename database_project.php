@@ -1,17 +1,17 @@
 <HTML>
     <HEAD>
-		<!--
+		
         <meta charset="utf-8">
 		<title> database_project </title>
+		
 		<style>
 			body {background-color:#FFFFDE;}
 			footer {color:white;background:black;text-align:center}
 			footer {position:fixed; bottom:0px; left:0px; width:100%}
 		</style>
-		-->
+		
     </HEAD>
 	<BODY>
-		<!--
 		<h3>說明:</h3>
 		<p>本網頁可讓使用者選擇兩位球員，我們會分析這兩位球員在BBO這款遊戲中的數據表現，及真實的數據表現來分析這兩位球員。並同時會比較遊戲方比較偏袒哪位球員。</p><br>
 		<FORM method=post action=t1.php>
@@ -57,7 +57,6 @@
                 <p>Input the player id for query: <INPUT type=text name=cc> </p>	
 		<p><INPUT type=submit value="submit">
 		<INPUT type=reset value="clear"></p></FORM>
-		-->
 		<footer>
 		<p> 2020 nctu database term project -- team 18</p>
 		</footer>
