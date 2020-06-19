@@ -1,12 +1,14 @@
 <HTML>
     <HEAD>
+		<!--
         <meta charset="utf-8">
         <title> database_project </title>
 		<style>
             body {background-color:#FFFFDE;}
             footer {color:white;background:black;text-align:center}
             footer {position:fixed; bottom:0px; left:0px; width:100%}
-        </style>				
+        </style>
+		-->
     </HEAD>
     <BODY>
         <!--
