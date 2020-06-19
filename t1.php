@@ -1,6 +1,5 @@
 <HTML>
     <HEAD>
-		<!--
         <meta charset="utf-8">
         <title> database_project </title>
 		<style>
@@ -8,7 +7,6 @@
             footer {color:white;background:black;text-align:center}
             footer {position:fixed; bottom:0px; left:0px; width:100%}
         </style>
-		-->
     </HEAD>
     <BODY>
         <!--
