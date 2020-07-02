@@ -1,0 +1,555 @@
+player_id,player_name,team,year,等級,力量,打擊,速度,傳球,守備
+1,Cody Bellinger,Los Angeles Dodgers,19,P,87,76,80,90,88
+2,Max Muncy,Los Angeles Dodgers,19,R,82,70,68,83,81
+3,Justin Turner,Los Angeles Dodgers,19,R,82,70,68,83,81
+4,Joc Pederson,Los Angeles Dodgers,19,R,85,66,71,82,82
+5,Cody Bellinger,Los Angeles Dodgers,19,R,82,70,73,83,82
+6,Corey Seager,Los Angeles Dodgers,19,R,72,78,71,81,83
+7,Chris Taylor,Los Angeles Dodgers,19,N,67,75,79,76,76
+8,Will Smith,Los Angeles Dodgers,19,N,77,62,70,74,74
+9,Tyler White,Los Angeles Dodgers,19,N,63,63,62,64,65
+10,Russell Martin,Los Angeles Dodgers,19,N,66,63,66,65,65
+11,Max Muncy,Los Angeles Dodgers,19,N,80,62,68,77,78
+12,Matt Beaty,Los Angeles Dodgers,19,N,66,75,75,74,74
+13,Justin Turner,Los Angeles Dodgers,19,N,77,67,65,78,76
+14,Joc Pederson,Los Angeles Dodgers,19,N,80,63,68,77,77
+15,Enrique Hernandez,Los Angeles Dodgers,19,N,76,64,72,76,77
+16,David Freese,Los Angeles Dodgers,19,N,73,72,63,62,63
+17,"Cody Bellinger	",Los Angeles Dodgers,19,N,77,67,70,78,77
+18,Corey Seager,Los Angeles Dodgers,19,N,69,73,68,76,78
+19,Alex Verdugo,Los Angeles Dodgers,19,N,67,80,71,76,75
+20,Austin Barnes,Los Angeles Dodgers,19,N,65,61,73,65,65
+21,A.J. Pollock,Los Angeles Dodgers,19,N,76,66,74,74,76
+22,Ketel Marte,Arizona Diamondbacks,19,P,77,86,80,87,89
+23,Ketel Marte,Arizona Diamondbacks,19,R,69,80,73,80,82
+24,Eduardo Escobar,Arizona Diamondbacks,19,R,85,68,75,84,84
+25,Tim Locastro,Arizona Diamondbacks,19,N,62,66,85,63,64
+26,Wilmer Flores,Arizona Diamondbacks,19,N,66,79,63,74,75
+27,Nick Ahmed,Arizona Diamondbacks,19,N,77,65,75,78,80
+28,Ketel Marte,Arizona Diamondbacks,19,N,67,61,72,64,63
+29,Jake Lamb,Arizona Diamondbacks,19,N,62,62,69,62,62
+30,Josh Rojas,Arizona Diamondbacks,19,N,64,71,85,76,77
+31,Jarrod Dyson,Arizona Diamondbacks,19,N,67,68,70,63,63
+32,Ildemaro Vargas,Arizona Diamondbacks,19,N,67,68,70,63,63
+33,Eduardo Escobar,Arizona Diamondbacks,19,N,80,65,72,79,79
+34,David Peralta,Arizona Diamondbacks,19,N,67,77,68,76,76
+35,Christian Walker,Arizona Diamondbacks,19,N,80,66,72,79,79
+36,Carson Kelly,Arizona Diamondbacks,19,N,77,65,63,75,76
+37,Blake Swihart,Arizona Diamondbacks,19,N,64,61,66,61,61
+38,Alex Avila,Arizona Diamondbacks,19,N,70,62,65,65,65
+39,Adam Jones,Arizona Diamondbacks,19,N,76,66,69,77,78
+40,Ronald Acuna,Atlanta Braves,19,R,86,68,84,84,84
+41,Qzzie Albies,Atlanta Braves,19,R,74,80,80,83,84
+42,Josh Donaldson,Atlanta Braves,19,R,85,67,67,83,84
+43,Freddie Freeman,Atlanta Braves,19,R,85,70,71,83,84
+44,Adeiny Hechavarria,Atlanta Braves,19,N,70,65,73,63,63
+45,Tyler Flowers,Atlanta Braves,19,N,67,70,69,74,76
+46,Ronald Acuna,Atlanta Braves,19,N,81,65,81,79,79
+47,Ozzie Albies,Atlanta Braves,19,N,71,75,77,78,79
+48,Nick Markakis,Atlanta Braves,19,N,71,75,77,78,79
+49,Matthew Joyce,Atlanta Braves,19,N,68,71,64,64,63
+50,Josh Donaldson,Atlanta Braves,19,N,80,64,64,78,79
+51,Johan Camargo,Atlanta Braves,19,N,68,64,70,63,64
+52,Francisco Cervelli,Atlanta Braves,19,N,63,61,70,64,65
+53,Freddie Freeman,Atlanta Braves,19,N,80,67,68,78,79
+54,Ender Inciarte,Atlanta Braves,19,N,66,66,78,63,64
+55,Dansby Swanson,Atlanta Braves,19,N,76,65,76,76,79
+56,Brian McCann,Atlanta Braves,19,N,67,71,63,75,75
+57,Billy Hamilton,Atlanta Braves,19,N,61,66,81,66,66
+58,Austin Riley,Atlanta Braves,19,N,77,62,68,74,75
+59,George Springer,Houston Astros,19,P,85,75,77,88,88
+60,Alex Bregman,Houston Astros,19,P,86,75,74,88,88
+61,Yulieski Gurriel,Houston Astros,19,R,84,71,71,83,83
+62,Michael Brantley,Houston Astros,19,R,74,82,80,83,83
+63,Jose Altuve,Houston Astros,19,R,85,70,73,82,82
+64,George Springer,Houston Astros,19,R,80,69,70,81,82
+65,Alex Bregman,Houston Astros,19,R,81,69,67,81,82
+66,Jake Marisnick,Houston Astros,19,N,66,70,82,75,75
+67,Yordan Alvarez,Houston Astros,19,N,81,70,63,74,74
+68,Yulieski Gurriel,Houston Astros,19,N,79,68,68,78,78
+69,Robinson Chirinos,Houston Astros,19,N,76,64,66,76,76
+70,Martin Maldonada,Houston Astros,19,N,67,70,64,75,76
+71,Michael Brantley,Houston Astros,19,N,71,77,67,78,78
+72,Myles Straw,Houston Astros,19,N,61,66,84,61,62
+73,Kyle Tucker,Houston Astros,19,N,66,65,80,61,61
+74,Josh Reddick,Houston Astros,19,N,68,78,71,78,77
+75,Jose Altuve,Houston Astros,19,N,80,8,80,88,88
+76,George Springer,Houston Astros,19,N,75,66,67,76,77
+77,Carios Correa,Houston Astros,19,N,79,67,68,75,75
+78,Aledmys Diaz,Houston Astros,19,N,70,68,71,63,64
+79,Abraham Toro,Houston Astros,19,N,63,61,74,61,61
+80,Alex Bregman,Houston Astros,19,N,76,66,64,76,77
+81,Roberto Perez,Cleveland Indians,19,R,74,78,64,82,80
+82,Jose Ramirez,Cleveland Indians,19,R,74,79,80,82,82
+83,Franmil Reyes,Cleveland Indians,19,R,85,65,66,82,82
+84,Francisco Lindor,Cleveland Indians,19,R,84,69,80,83,84
+85,Carlos Santana,Cleveland Indians,19,R,84,69,70,83,84
+86,Yasiel Puig,Cleveland Indians,19,N,79,67,76,79,79
+87,Tyler Naquin,Cleveland Indians,19,N,66,76,69,75,74
+88,Roberto Perez,Cleveland Indians,19,N,71,79,61,77,75
+89,Oscar Mercado,Cleveland Indians,19,N,76,67,79,75,78
+90,Mike Freeman,Cleveland Indians,19,N,65,69,64,63,63
+91,Leonys Martin,Cleveland Indians,19,N,69,62,67,64,64
+92,Kevin Plawecki,Cleveland Indians,19,N,63,62,62,64,65
+93,Jake Bauers,Cleveland Indians,19,N,73,68,68,68,68
+94,Jose Ramirez,Cleveland Indians,19,N,71,74,77,77,77
+95,Jordan Luplow,Cleveland Indians,19,N,77,66,71,74,74
+96,Jason Kipnis,Cleveland Indians,19,N,76,65,71,77,77
+97,Hanley Ramirez,Cleveland Indians,19,N,62,61,62,61,61
+98,Greg Allen,Cleveland Indians,19,N,64,65,79,64,64
+99,Franmil Reyes,Cleveland Indians,19,N,80,62,63,77,77
+100,Francisco Lindor,Cleveland Indians,19,N,79,66,77,78,79
+101,Carlos Santana,Cleveland Indians,19,N,79,66,67,78,79
+102,Starling Marte,Pittsburgh Pirates,19,R,74,80,85,82,83
+103,Josh Bell,Pittsburgh Pirates,19,R,86,69,67,83,83
+104,Bryan Reynolds,Pittsburgh Pirates,19,R,72,81,72,81,83
+105,Jung Ho Kang,Pittsburgh Pirates,19,N,71,61,63,62,63
+106,Starling Marte,Pittsburgh Pirates,19,N,71,75,82,77,78
+107,Pablo Reyes,Pittsburgh Pirates,19,N,62,61,73,62,62
+108,Melky Cabrera,Pittsburgh Pirates,19,N,65,79,70,76,75
+109,Kevin Newman,Pittsburgh Pirates,19,N,67,80,77,77,78
+110,Josh Bell,Pittsburgh Pirates,19,N,81,66,64,78,78
+111,Jose Osuna,Pittsburgh Pirates,19,N,66,73,65,74,75
+112,Jacob Stallings,Pittsburgh Pirates,19,N,67,67,63,65,65
+113,Gregory Polanco,Pittsburgh Pirates,19,N,67,64,73,62,62
+114,Elias Diaz,Pittsburgh Pirates,19,N,62,67,62,66,65
+115,Erik Gonzalez,Pittsburgh Pirates,19,N,62,65,73,62,62
+116,Colin Moran,Pittsburgh Pirates,19,N,67,77,63,77,77
+117,Cole Tucker,Pittsburgh Pirates,19,N,63,61,70,62,62
+118,Bryan Reynolds,Pittsburgh Pirates,19,N,69,76,69,76,78
+119,Adam Frazier,Pittsburgh Pirates,19,N,66,78,74,79,79
+120,Ji-Man Choi,Tampa Bay Rays,19,R,72,78,66,81,82
+121,Tommy Pham,Tampa Bay Rays,19,R,73,78,80,83,84
+122,Eric Sogard,Tampa Bay Rays,19,R,69,80,77,80,81
+123,Austin Meadows,Tampa Bay Rays,19,R,85,70,78,82,83
+124,Mike Zunino,Tampa Bay Rays,19,N,69,61,66,65,66
+125,Ji-Man Choi,Tampa Bay Rays,19,N,69,73,63,76,77
+126,Daniel Robertson,Tampa Bay Rays,19,N,62,62,68,64,63
+127,Yandy Diaz,Tampa Bay Rays,19,N,68,75,69,75,75
+128,Willy Adames,Tampa Bay Rays,19,N,77,65,69,78,79
+129,Travis d'Arnaud,Tampa Bay Rays,19,N,76,65,63,76,75
+130,Tommy Pham,Tampa Bay Rays,19,N,70,73,77,78,79
+131,Kevin Kiermaier,Tampa Bay Rays,19,N,68,70,83,77,76
+132,Jesus Aguilar,Tampa Bay Rays,19,N,67,71,63,75,76
+133,Joey Wendle,Tampa Bay Rays,19,N,63,65,77,64,64
+134,Guillermo Heredia,Tampa Bay Rays,19,N,66,64,68,63,64
+135,Eric Sogard,Tampa Bay Rays,19,N,66,75,74,75,76
+136,Brandon Lowe,Tampa Bay Rays,19,N,77,65,76,74,76
+137,Austin Meadows,Tampa Bay Rays,19,N,80,67,75,77,78
+138,Avisail Garcia,Tampa Bay Rays,19,N,77,68,74,77,78
+139,Whit Merrifield,Kansas City Royals,19,R,71,80,81,84,84
+140,Jorge Soler,Kansas City Royals,19,R,86,67,68,83,83
+141,Hunter Dozier,Kansas City Royals,19,R,81,68,72,83,82
+142,Whit Merrifield,Kansas City Royals,19,N,68,75,78,79,79
+143,Brett Phillips,Kansas City Royals,19,N,62,61,73,61,61
+144,Byan McBroom,Kansas City Royals,19,N,62,67,64,61,61
+145,Ryan O'Hearn,Kansas City Royals,19,N,75,64,62,64,68
+146,Nicky Lopez,Kansas City Royals,19,N,62,69,69,67,69
+147,Meibrys Viloria,Kansas City Royals,19,N,62,61,62,64,64
+148,Lucas Duda,Kansas City Royals,19,N,64,61,62,61,62
+149,Jorge Soler,Kansas City Royals,19,N,81,64,65,78,78
+150,Humberto Arteaga,Kansas City Royals,19,N,61,61,67,61,62
+151,Hunter Dozier,Kansas City Royals,19,N,76,65,69,78,77
+152,Cam Callagher,Kansas City Royals,19,N,64,63,62,64,64
+153,Cheslor Cuthbert,Kansas City Royals,19,N,70,68,64,65,66
+154,Bubba Starling,Kansas City Royals,19,N,64,62,72,63,62
+155,Adalberto Mondesi,Kansas City Royals,19,N,66,75,87,75,77
+156,Alex Gordon,Kansas City Royals,19,N,67,76,70,79,80
+157,Rees McGuire,Toronto Blue Jays,19,N,67,69,62,63,64
+158,Vladimir Guerrero Jr.,Toronto Blue Jays,19,N,76,67,63,78,76
+159,Cavan Biggio,Toronto Blue Jays,19,N,76,63,80,75,77
+160,Teoscar Hernandez,Toronto Blue Jays,19,N,79,62,73,76,77
+161,Tandal Grichuk,Toronto Blue Jays,19,N,81,63,70,80,79
+162,Towdy Tellez,Toronto Blue Jays,19,N,78,62,65,76,76
+163,Luke Maile,Toronto Blue Jays,19,N,62,61,72,63,64
+164,Lourdes Gurriel,Toronto Blue Jays,19,N,78,67,74,74,76
+165,Justin Smoak,Toronto Blue Jays,19,N,78,62,63,74,79
+166,Jonathan Davis,Toronto Blue Jays,19,N,62,61,71,61,61
+167,Derek Fisher,Toronto Blue Jays,19,N,68,61,77,62,62
+168,Danny Jansen,Toronto Blue Jays,19,N,67,70,65,76,75
+169,Billy McKinney,Toronto Blue Jays,19,N,73,64,68,65,64
+170,Bo Bichette,Toronto Blue Jays,19,N,68,77,69,74,74
+171,Brandon Drury,Toronto Blue Jays,19,N,76,67,63,70,68
+172,Matt Chapman,Oakland Athletics,19,R,85,66,69,84,84
+173,Ramon Laureano,Oakland Athletics,19,R,74,78,78,81,82
+174,Mark Canha,Oakland Athletics,19,R,81,68,72,81,82
+175,Matt Olson,Oakland Athletics,19,R,85,67,64,81,83
+176,Marcus Semien,Oakland Athletics,19,R,84,71,76,84,84
+177,Matt Chapman,Oakland Athletics,19,N,80,63,66,79,79
+178,Josh Phegley,Oakland Athletics,19,N,73,67,64,66,65
+179,Stephen Piscotty,Oakland Athletics,19,N,67,72,70,75,76
+180,Seth Brown,Oakland Athletics,19,N,62,67,77,61,61
+181,Robbie Grossman,Oakland Athletics,19,N,63,72,74,76,77
+182,Ramon Laureano,Oakland Athletics,19,N,71,73,75,76,77
+183,Nick Hundley,Oakland Athletics,19,N,63,61,68,62,62
+184,Mark Canha,Oakland Athletics,19,N,76,65,69,76,77
+185,Matt Olson,Oakland Athletics,19,N,80,64,61,76,78
+186,Marcus Semien,Oakland Athletics,19,N,79,68,73,79,79
+187,Khris Davis,Oakland Athletics,19,N,76,67,62,70,70
+188,Jurickson Profar,Oakland Athletics,19,N,77,63,75,76,78
+189,Dustin Garneau,Oakland Athletics,19,N,64,63,64,63,63
+190,Chris Herrmann,Oakland Athletics,19,N,62,61,62,63,62
+191,Chad Pinder,Oakland Athletics,19,N,67,72,65,75,76
+192,Christian Yelich,Milwaukee Brewers,19,P,86,77,86,87,87
+193,Mike Moustakas,Milwaukee Brewers,19,R,85,66,70,83,82
+194,Yasmani Grandal,Milwaukee Brewers,19,R,81,66,70,83,83
+195,Eric Thames,Milwaukee Brewers,19,R,81,64,71,81,81
+196,Christian Yelich,Milwaukee Brewers,19,R,81,71,79,80,81
+197,Herman Perez,Milwaukee Brewers,19,N,69,64,72,63,64
+198,Mike Moustakas,Milwaukee Brewers,19,N,80,63,67,78,77
+199,Travis Shaw,Milwaukee Brewers,19,N,67,61,62,64,64
+200,Yasmani Grandal,Milwaukee Brewers,19,N,76,63,67,78,78
+201,Trent Grisham,Milwaukee Brewers,19,N,67,63,74,62,63
+202,Tyler Austin,Milwaukee Brewers,19,N,70,61,75,62,63
+203,Ryan Braun,Milwaukee Brewers,19,N,79,69,77,77,77
+204,Orlando Arcia,Milwaukee Brewers,19,N,76,67,69,72,72
+205,Manny Pina,Milwaukee Brewers,19,N,68,63,62,65,64
+206,Lorenzo Cain,Milwaukee Brewers,19,N,67,75,74,78,80
+207,Keston Hiura,Milwaukee Brewers,19,N,78,68,76,75,75
+208,Eric Thames,Milwaukee Brewers,19,N,76,61,68,76,76
+209,Christian Yelich,Milwaukee Brewers,19,N,76,68,76,75,76
+210,Cory Spangenberg,Milwaukee Brewers,19,N,63,62,79,61,62
+211,Ben Gamel,Milwaukee Brewers,19,N,65,72,67,75,76
+212,Jonathan Villar,Baltimore Orioles,19,R,74,78,87,84,84
+213,Trey Mancini,Baltimore Orioles,19,R,85,70,70,84,83
+214,Richie Martin,Baltimore Orioles,19,N,66,64,80,65,65
+215,Jonathan Villar,Baltimore Orioles,19,N,71,73,84,79,79
+216,Trey Mancini,Baltimore Orioles,19,N,80,67,67,79,78
+217,Stevie Wilkerson,Baltimore Orioles,19,N,71,67,64,66,66
+218,Rio Ruiz,Baltimore Orioles,19,N,73,68,63,68,68
+219,Renato Nunez,Baltimore Orioles,19,N,81,64,64,78,79
+220,Pedro Severino,Baltimore Orioles,19,N,67,71,67,75,75
+221,Jose Rondon,Baltimore Orioles,19,N,63,61,62,62,62
+222,Jace Peterson,Baltimore Orioles,19,N,62,61,78,61,62
+223,Hanser Alberto,Baltimore Orioles,19,N,67,80,69,76,79
+224,DJ Stewart,Baltimore Orioles,19,N,65,63,64,61,62
+225,Dwight Smith,Baltimore Orioles,19,N,67,72,75,74,77
+226,Chance Sisco,Baltimore Orioles,19,N,69,61,64,64,65
+227,Chris Davis,Baltimore Orioles,19,N,72,62,62,66,66
+228,Anthony Santander,Baltimore Orioles,19,N,77,66,65,76,76
+229,JaCoby Jones,Detroit Tigers,19,N,67,70,76,75,75
+230,Jeimer Candelario,Detroit Tigers,19,N,64,70,69,76,75
+231,Harold Castro,Detroit Tigers,19,N,66,73,70,66,66
+232,Victor Reyes,Detroit Tigers,19,N,63,78,78,74,75
+233,Travis Demeritte,Detroit Tigers,19,N,63,63,78,62,63
+234,Ronny Rodriguez,Detroit Tigers,19,N,75,64,72,64,65
+235,Niko Goodrum,Detroit Tigers,19,N,67,72,79,76,77
+236,Miguel Cabrera,Detroit Tigers,19,N,67,78,63,77,78
+237,Jordy Mercer,Detroit Tigers,19,N,66,75,63,74,75
+238,John Hicks,Detroit Tigers,19,N,74,64,63,66,65
+239,Gordon Beckham,Detroit Tigers,19,N,67,63,75,63,64
+240,Grayson Greiner,Detroit Tigers,19,N,65,61,64,65,65
+241,Dawel Lugo,Detroit Tigers,19,N,67,67,68,65,64
+242,Christin Stewart,Detroit Tigers,19,N,71,68,64,68,68
+243,Brandon Dixon,Detroit Tigers,19,N,76,64,74,76,76
+244,Shin-Soo Choo,Texas Rangers,19,R,74,78,76,82,83
+245,Danny Santana,Texas Rangers,19,R,82,68,84,82,82
+246,Shin-Soo Choo,Texas Rangers,19,N,71,73,75,77,78
+247,Delino DeShields,Texas Rangers,19,N,63,72,82,76,76
+248,Isiah Kiner-Falefa,Texas Rangers,19,N,62,65,73,65,65
+249,Willie Calhoun,Texas Rangers,19,N,79,66,67,74,76
+250,Ronald Guzman,Texas Rangers,19,N,66,70,64,71,72
+251,Rougned Odor,Texas Rangers,19,N,81,62,74,78,79
+252,Nomar Mazara,Texas Rangers,19,N,77,67,71,77,77
+253,Niick Solak,Texas Rangers,19,N,66,68,73,65,65
+254,Logan Forsythe,Texas Rangers,19,N,68,67,68,65,67
+255,Jeff Mathis,Texas Rangers,19,N,62,61,66,65,65
+256,Joey Gallo,Texas Rangers,19,N,79,62,72,74,75
+257,Jose Trevino,Texas Rangers,19,N,63,65,65,64,63
+258,Hunter Pence,Texas Rangers,19,N,78,68,74,75,75
+259,Elvis Andrus,Texas Rangers,19,N,67,78,83,79,80
+260,Danny Santana,Texas Rangers,19,N,77,65,81,77,77
+261,Nelson Cruz,Minnesota Twins,19,R,86,70,64,81,81
+262,Max Kepler,Minnesota Twins,19,R,85,66,67,83,82
+263,Miguel Sano,Minnesota Twins,19,R,85,64,68,81,80
+264,Jorge Polanco,Minnesota Twins,19,R,74,80,73,84,84
+265,Eddie Rosario,Minnesota Twins,19,R,84,70,71,82,83
+266,Mitch Garver,Minnesota Twins,19,N,81,67,67,75,76
+267,Willians Astudillo,Minnesota Twins,19,N,65,68,65,65,65
+268,Nelson Cruz,Minnesota Twins,19,N,81,67,61,76,76
+269,Max Kepler,Minnesota Twins,19,N,80,63,64,78,77
+270,Miguel Sano,Minnesota Twins,19,N,80,61,65,76,75
+271,Marwin Gonzalez,Minnesota Twins,19,N,76,66,67,76,78
+272,Luis Arraez,Minnesota Twins,19,N,64,80,68,75,76
+273,Jason Castro,Minnesota Twins,19,N,67,70,64,74,75
+274,Jorge Polance,Minnesota Twins,19,N,71,75,70,79,79
+275,Jake Cave,Minnesota Twins,19,N,69,67,68,63,64
+276,Jonathan Schoop,Minnesota Twins,19,N,78,66,68,76,77
+277,Eddie Rosario,Minnesota Twins,19,N,79,67,68,77,78
+278,Ehire Adrianza,Minnesota Twins,19,N,66,68,70,64,63
+279,C.J. Cron,Minnesota Twins,19,N,79,65,63,75,78
+280,Byron Buxton,Minnesota Twins,19,N,67,73,84,74,75
+281,Xander Bogaerts,Boston Red Sox,19,R,85,71,68,83,84
+282,Rafael Devers,Boston Red Sox,19,R,85,71,74,74,74
+283,Mookie Betts,Boston Red Sox,19,R,73,71,80,84,84
+284,J.D. Martinez,Boston Red Sox,19,R,86,71,69,81,83
+285,Sam Travis,Boston Red Sox,19,N,67,62,72,62,62
+286,Xander Bogaerts,Boston Red Sox,19,N,80,68,65,78,79
+287,Sandy Leon,Boston Red Sox,19,N,65,61,62,64,65
+288,Rafael Devers,Boston Red Sox,19,N,80,68,71,79,79
+289,Marco Hernandez,Boston Red Sox,19,N,62,65,66,62,62
+290,Mookie Betts,Boston Red Sox,19,N,78,68,77,79,79
+291,Mitch Moreland,Boston Red Sox,19,N,78,64,69,74,76
+292,Michael Chavis,Boston Red Sox,19,N,77,64,67,74,77
+293,J.D. Martinez,Boston Red Sox,19,N,81,68,66,77,78
+294,Jackie Bradley,Boston Red Sox,19,N,78,62,73,78,78
+295,Eduardo Nunez,Boston Red Sox,19,N,62,63,71,62,62
+296,Chris Owings,Boston Red Sox,19,N,63,61,74,62,63
+297,Christian Vazquez,Boston Red Sox,19,N,78,68,68,77,77
+298,Brock Holt,Boston Red Sox,19,N,63,77,71,74,75
+299,Andrew Benintendi,Boston Red Sox,19,N,67,76,75,79,79
+300,Mike Trout,Los Angeles Angels,19,P,87,75,78,87,88
+301,Shohei Ohtani,Los Angeles Angels,19,R,73,78,78,80,80
+302,Mike Trout,Los Angeles Angels,19,R,82,69,71,80,82
+303,David Fletcher,Los Angeles Angels,19,R,64,81,73,83,83
+304,Shohei Ohtani,Los Angeles Angels,19,N,70,73,75,75,75
+305,Zack Cozart,Los Angeles Angels,19,N,61,61,62,61,62
+306,Tommy La Stella,Los Angeles Angels,19,N,76,69,65,75,75
+307,Matt Thaiss,Los Angeles Angels,19,N,69,61,62,62,62
+308,Mike Trout,Los Angeles Angels,19,N,77,66,68,75,77
+309,Max Stassi,Los Angeles Angels,19,N,62,61,62,64,64
+310,Luis Rengifo,Los Angeles Angels,19,N,65,71,69,76,76
+311,Kevan Smith,Los Angeles Angels,19,N,66,66,68,65,65
+312,Kole Calhoun,Los Angeles Angels,19,N,81,63,70,80,79
+313,Justin Bour,Los Angeles Angels,19,N,69,61,62,62,62
+314,Juntin Upton,Los Angeles Angels,19,N,67,70,67,74,74
+315,David Fletcher,Los Angeles Angels,19,N,61,78,70,78,78
+316,Brain Goodwin,Los Angeles Angels,19,N,76,66,75,76,77
+317,Andrelton Simmons,Los Angeles Angels,19,N,65,76,73,76,76
+318,Albert Pujols,Los Angeles Angels,19,N,78,65,67,77,78
+319,Trevor Story,Colorado Rockies,19,R,86,69,82,83,84
+320,Nolan Arenado,Colorado Rockies,19,R,86,73,68,84,83
+321,David Dahl,Colorado Rockies,19,R,71,79,76,80,80
+322,Charlie Blackmon,Colorado Rockies,19,R,85,71,72,83,83
+323,Tony Wolters,Colorado Rockies,19,N,62,71,64,68,68
+324,Yonder Alonso,Colorado Rockies,19,N,70,63,62,65,66
+325,Yonathan Daza,Colorado Rockies,19,N,61,61,73,61,62
+326,Trevor Story,Colorado Rockies,19,N,81,66,79,78,79
+327,Sam Hilliard,Colorado Rockies,19,N,69,65,78,61,61
+328,Ryan McMahon,Colorado Rockies,19,N,79,65,71,77,78
+329,Raimel Tapia,Colorado Rockies,19,N,66,77,76,75,77
+330,Molan Arenado,Colorado Rockies,19,N,81,70,65,79,78
+331,Mark Reynolds,Colorado Rockies,19,N,64,61,68,62,62
+332,Ian Desmond,Colorado Rockies,19,N,77,66,72,76,77
+333,Garrett Hampson,Colorado Rockies,19,N,69,68,81,65,66
+334,David Dahl,Colorado Rockies,19,N,68,74,73,75,75
+335,Daniel Murphy,Colorado Rockies,19,N,67,77,66,76,77
+336,Charlie Blackmon,Colorado Rockies,19,N,80,68,69,78,78
+337,Chris Iannetta,Colorado Rockies,19,N,67,62,62,64,65
+338,Pete Alonso,New York Mets,19,R,86,66,68,84,84
+339,Michael Conforto,New York Mets,19,R,83,67,72,83,83
+340,Jeff McNeil,New York Mets,19,R,74,83,70,82,83
+341,J.D. Davis,New York Mets,19,R,74,81,71,81,81
+342,Luis Guillorme,New York Mets,19,N,63,63,64,61,61
+343,Brandon Nimmo,New York Mets,19,N,65,70,74,74,74
+344,Wilson Ramos,New York Mets,19,N,68,79,65,77,77
+345,Todd Frazier,New York Mets,19,N,78,65,66,77,76
+346,Tomas Nido,New York Mets,19,N,64,61,62,64,64
+347,Robinson Cano,New York Mets,19,N,67,74,64,75,77
+348,Pete Alonso,New York Mets,19,N,81,63,65,79,79
+349,Michael Conforto,New York Mets,19,N,78,64,79,78,78
+350,Jeff McNeil,New York Mets,19,N,71,78,67,77,78
+351,Juan Lagares,New York Mets,19,N,65,63,73,64,65
+352,Joe Panik,New York Mets,19,N,65,69,69,70,72
+353,J.D. Davis,New York Mets,19,N,71,76,68,76,76
+354,Dominic Smith,New York Mets,19,N,73,68,65,62,63
+355,Carlos Gomez,New York Mets,19,N,63,61,72,61,61
+356,Amed Rosario,New York Mets,19,N,76,69,78,80,80
+357,Luke Voit,New York Yankees,19,R,73,78,65,82,82
+358,Gary Sanchez,New York Yankees,19,R,84,63,65,81,81
+359,Gleyber Torres,New York Yankees,19,R,85,69,71,83,83
+360,Gio Urshela,New York Yankees,19,R,74,81,67,81,81
+361,Edwin Encarnacion,New York Yankees,19,R,84,65,65,81,82
+362,DJ LeMahieu,New York Yankees,19,R,81,74,73,83,84
+363,Brett Gardner,New York Yankees,19,R,82,66,80,82,83
+364,Aaron Judge,New York Yankees,19,R,82,66,71,82,80
+365,Mike Tauchman,New York Yankees,19,N,68,75,76,74,75
+366,Didi Gregorius,New York Yankees,19,N,76,63,71,74,76
+367,Miguel Andujar,New York Yankees,19,N,61,61,62,61,61
+368,Luke Voit,New York Yankees,19,N,70,73,63,77,77
+369,Kendry Morales,New York Yankees,19,N,62,61,64,63,63
+370,Gary Sanchez,New York Yankees,19,N,79,60,62,76,76
+371,Gleyber Torres,New York Yankees,19,N,80,66,68,78,78
+372,Gio Urshela,New York Yankees,19,N,71,76,64,76,76
+373,Edwin Encarnacion,New York Yankees,19,N,79,62,62,76,77
+374,DJ LeMahieu,New York Yankees,19,N,76,71,70,78,79
+375,Cameron Maybin,New York Yankees,19,N,67,76,73,74,74
+376,Clint Frazier,New York Yankees,19,N,73,68,64,64,63
+377,Brett Gardner,New York Yankees,19,N,77,63,77,77,78
+378,Aaron Judge,New York Yankees,19,N,77,63,68,77,75
+379,Austin Romine,New York Yankees,19,N,69,69,64,65,65
+380,Aaron Hicks,New York Yankees,19,N,67,70,66,74,74
+381,Manny Machado,San Diego Padres,19,R,83,67,70,84,83
+382,Ty France,San Diego Padres,19,N,68,64,65,63,63
+383,Fernando Tatis Jr.,San Diego Padres,19,N,71,80,81,76,75
+384,Will Myers,San Diego Padres,19,N,77,63,76,75,78
+385,Nick Martini,San Diego Padres,19,N,62,62,66,61,62
+386,Manny Machado,San Diego Padres,19,N,78,64,67,79,78
+387,Manuel Margot,San Diego Padres,19,N,67,71,81,75,77
+388,Luis Urias,San Diego Padres,19,N,64,63,66,63,64
+389,Josh Nayler,San Diego Padres,19,N,65,70,65,71,72
+390,IanKinsler,San Diego Padres,19,N,70,64,65,64,65
+391,Hunter Renfroe,San Diego Padres,19,N,81,62,73,78,76
+392,Greg Garcia,San Diego Padres,19,N,64,72,70,75,76
+393,Francisco Mejia,San Diego Padres,19,N,69,68,68,65,65
+394,Eric Hosmer,San Diego Padres,19,N,78,67,64,80,80
+395,Austin Hedges,San Diego Padres,19,N,71,61,65,66,65
+396,Austin Allen,San Diego Padres,19,N,61,61,62,62,62
+397,Paul Goldschmidt,St. Louis Cardinals,19,R,83,67,68,83,84
+398,Kolten Wong,St. Louis Cardinals,19,R,67,79,81,82,82
+399,Paul DeJong,St. Louis Cardinals,19,R,81,64,73,83,84
+400,Paul Goldschmidt,St. Louis Cardinals,19,N,78,64,65,78,79
+401,Kolten Wong,St. Louis Cardinals,19,N,64,74,78,77,77
+402,Yairo Munoz,St. Louis Cardinals,19,N,63,67,74,62,63
+403,Yadier Molina,St. Louis Cardinals,19,N,66,78,71,77,76
+404,Tyler O'Neill,St. Louis Cardinals,19,N,66,66,68,62,62
+405,Tommy Edman,St. Louis Cardinals,19,N,68,79,85,76,74
+406,Paul DeJong,St. Louis Cardinals,19,N,76,71,70,78,79
+407,Matt Wieters,St. Louis Cardinals,19,N,72,61,62,65,64
+408,Marcell Ozuna,St. Louis Cardinals,19,N,80,64,76,77,78
+409,Matt Carpenter,St. Louis Cardinals,19,N,76,62,71,76,77
+410,Lane Thomas,St. Louis Cardinals,19,N,66,69,72,61,61
+411,Jose Martinez,St. Louis Cardinals,19,N,66,76,73,76,75
+412,Harrison Bader,St. Louis Cardinals,19,N,67,70,79,76,76
+413,Dexter Fowler,St. Louis Cardinals,19,N,77,64,70,78,78
+414,Andrew Knizner,St. Louis Cardinals,19,N,63,61,73,62,61
+415,Mike Yastrzemski,San Francisco Giants,19,R,74,78,71,80,80
+416,Mike Yastrzemski,San Francisco Giants,19,N,71,73,68,75,75
+417,Scooter Gennett,San Francisco Giants,19,N,62,62,65,61,62
+418,Steven Duggar,San Francisco Giants,19,N,64,65,68,64,65
+419,Stephen Vogt,San Francisco Giants,19,N,66,73,71,75,74
+420,Pablo Sandoval,San Francisco Giants,19,N,69,74,68,74,75
+421,Mauricio Dubon,San Francisco Giants,19,N,65,66,69,61,62
+422,Kevin Pillar,San Francisco Giants,19,N,78,67,77,79,80
+423,Joey Rickard,San Francisco Giants,19,N,64,63,72,62,63
+424,Evan Longoria,San Francisco Giants,19,N,77,65,69,77,77
+425,Donovan Solano,San Francisco Giants,19,N,65,73,65,63,64
+426,Brandon Belt,San Francisco Giants,19,N,76,63,69,79,79
+427,Buster Posey,San Francisco Giants,19,N,65,74,63,76,76
+428,Brandon Crowford,San Francisco Giants,19,N,72,68,68,73,73
+429,Alex Dickerson,San Francisco Giants,19,N,67,68,74,62,63
+430,Austin Slater,San Francisco Giants,19,N,66,64,73,62,63
+431,Wilson Contreras,Chicago Cubs,19,R,74,78,67,81,80
+432,Nick Castellanos,Chicago Cubs,19,R,82,70,71,83,84
+433,Kris Bryant,Chicago Cubs,19,R,84,69,72,83,83
+434,Kyle Schwarber,Chicago Cubs,19,R,85,65,68,83,83
+435,Javier Baez,Chicago Cubs,19,R,83,68,78,82,83
+436,Anthony Rizzo,Chicago Cubs,19,R,82,71,72,82,84
+437,Wilson Contreras,Chicago Cubs,19,N,71,73,64,76,75
+438,Victor Caratini,Chicago Cubs,19,N,67,74,66,75,74
+439,Tony Kemp,Chicago Cubs,19,N,69,63,73,64,65
+440,Nick Castellanos,Chicago Cubs,19,N,77,67,68,78,79
+441,Kris Bryant,Chicago Cubs,19,N,81,64,69,78,78
+442,Kyle Schwarber,Chicago Cubs,19,N,80,62,65,78,78
+443,Jonathan Lucroy,Chicago Cubs,19,N,69,66,63,66,65
+444,Jason Heyward,Chicago Cubs,19,N,78,65,73,79,78
+445,Javier Baez,Chicago Cubs,19,N,78,65,75,77,78
+446,Daniel Descalso,Chicago Cubs,19,N,62,61,71,62,63
+447,David Bote,Chicago Cubs,19,N,67,74,70,75,76
+448,Ben Zobrist,Chicago Cubs,19,N,62,66,64,62,63
+449,Anthony Rizzo,Chicago Cubs,19,N,77,68,69,77,79
+450,Addison Russell,Chicago Cubs,19,N,70,65,71,63,64
+451,Albert Almora,Chicago Cubs,19,N,73,68,68,66,66
+452,Yoan Moncada,Chicago White Sox,19,R,81,71,77,82,83
+453,Tim Anderson,Chicago White Sox,19,R,73,84,76,82,82
+454,Jose Abreu,Chicago White Sox,19,R,84,69,66,84,84
+455,Eloy Jimenez,Chicago White Sox,19,R,84,67,68,83,81
+456,Yoan Moncada,Chicago White Sox,19,N,76,68,74,77,78
+457,Zack Collins,Chicago White Sox,19,N,63,61,68,65,65
+458,Yolmer Sanchez,Chicago White Sox,19,N,62,73,73,78,78
+459,Wellington Castillo,Chicago White Sox,19,N,73,63,62,65,66
+460,Tim Anderson,Chicago White Sox,19,N,70,79,73,77,77
+461,Ryan Goins,Chicago White Sox,19,N,62,65,64,62,62
+462,Ryan Cordell,Chicago White Sox,19,N,68,63,67,63,64
+463,Leury Garcia,Chicago White Sox,19,N,65,77,79,78,80
+464,James McCann,Chicago White Sox,19,N,77,67,69,77,76
+465,Jose Abreu,Chicago White Sox,19,N,79,66,63,79,79
+466,Jon Jay,Chicago White Sox,19,N,61,67,64,62,63
+467,Eloy Jimenez,Chicago White Sox,19,N,79,64,65,78,76
+468,Daniel Palka,Chicago White Sox,19,N,62,61,64,61,61
+469,Charlie Tilson,Chicago White Sox,19,N,62,63,73,62,62
+470,Adam Engel,Chicago White Sox,19,N,67,65,71,63,64
+471,Anthony Rendon,Washington Nationals,19,P,77,86,75,88,87
+472,Trea Turner,Washington Nationals,19,R,72,80,88,82,83
+473,Juan Soto,Washington Nationals,19,R,84,69,79,83,84
+474,Anthony Rendon,Washington Nationals,19,R,69,80,68,81,80
+475,Yan Gomes,Washington Nationals,19,N,67,70,67,75,76
+476,Wilmer Difo,Washington Nationals,19,N,62,64,63,61,62
+477,Victor Robles,Washington Nationals,19,N,76,66,82,79,79
+478,Trea Turner,Washington Nationals,19,N,69,75,85,77,78
+479,Ryan Zimmerman,Washington Nationals,19,N,63,63,76,61,61
+480,Matt Adams,Washington Nationals,19,N,77,62,63,75,75
+481,Kurt Suzuki,Washington Nationals,19,N,76,66,63,74,76
+482,Juan Soto,Washington Nationals,19,N,79,66,76,78,79
+483,Howie Kendrick,Washington Nationals,19,N,70,80,68,75,76
+484,Gerardo Parra,Washington Nationals,19,N,70,65,74,65,64
+485,Brian Dozier,Washington Nationals,19,N,77,64,64,75,78
+486,Anthony Rendon,Washington Nationals,19,N,66,75,65,76,75
+487,Asdrubal Cabrera,Washington Nationals,19,N,77,66,70,78,76
+488,Adam Eaton,Washington Nationals,19,N,76,68,80,80,80
+489,Dee Gordon,Seattle Mariners,19,N,64,73,80,67,69
+490,Omar Narvaez,Seattle Mariners,19,N,78,68,83,77,76
+491,Tim Beckham,Seattle Mariners,19,N,76,62,67,75,75
+492,Tom Murphy,Seattle Mariners,19,N,78,64,69,75,74
+493,Shed Long,Seattle Mariners,19,N,66,66,71,62,62
+494,Ryon Healy,Seattle Mariners,19,N,68,64,63,62,63
+495,Mitch Haniger,Seattle Mariners,19,N,76,62,76,75,74
+496,Mallex Smith,Seattle Mariners,19,N,66,68,86,73,73
+497,Kyle Seager,Seattle Mariners,19,N,78,64,66,77,75
+498,Keon Broxton,Seattle Mariners,19,N,66,61,74,63,64
+499,J.P. Crowford,Seattle Mariners,19,N,65,70,74,75,76
+500,Domingo Santana,Seattle Mariners,19,N,78,64,71,77,77
+501,Dylan Moore,Seattle Mariners,19,N,66,70,78,74,75
+502,Dan Vogelbach,Seattle Mariners,19,N,81,62,63,78,78
+503,Austin Nola,Seattle Mariners,19,N,66,74,70,74,74
+504,Scott Kingery,Philadelphia Phillies,19,R,72,78,81,81,82
+505,J.T. Realmuto,Philadelphia Phillies,19,R,80,69,76,83,82
+506,Bryce Harper,Philadelphia Phillies,19,R,85,66,76,84,83
+507,Brad Miller,Philadelphia Phillies,19,N,75,66,72,62,62
+508,Scott Kingery,Philadelphia Phillies,19,N,69,73,78,76,77
+509,Sean Rodriguez,Philadelphia Phillies,19,N,65,61,68,61,62
+510,Rhys Hoskins,Philadelphia Phillies,19,N,80,62,69,80,81
+511,Odubel Herrrera,Philadelphia Phillies,19,N,62,61,71,61,62
+512,Maikel Franco,Philadelphia Phillies,19,N,76,64,63,76,76
+513,J.T. Realmuto,Philadelphia Phillies,19,N,75,66,73,78,77
+514,Jean Segura,Philadelphia Phillies,19,N,67,79,76,79,79
+515,Jay Bruce,Philadelphia Phillies,19,N,80,62,68,75,75
+516,Cesar Hernandez,Philadelphia Phillies,19,N,68,77,73,80,80
+517,Corey Dickerson,Philadelphia Phillies,19,N,68,78,70,74,75
+518,Bryce Harper,Philadelphia Phillies,19,N,80,63,73,79,78
+519,Andrew McCutchen,Philadelphia Phillies,19,N,66,72,71,74,74
+520,Andrew Knapp,Philadelphia Phillies,19,N,62,61,62,64,65
+521,Adam Harseley,Philadelphia Phillies,19,N,66,68,72,63,64
+522,Eugenio Suarez,Cincinnati Reds,19,R,86,67,68,84,83
+523,Jose Peraza,Cincinnati Reds,19,N,66,69,71,68,68
+524,Jesse Winker,Cincinnati Reds,19,N,76,67,67,75,76
+525,Jose Iglesias,Cincinnati Reds,19,N,67,79,71,77,78
+526,Tucker Barnhart,Cincinnati Reds,19,N,67,71,65,75,76
+527,Scott Schebler,Cincinnati Reds,19,N,62,61,65,61,61
+528,Phil Ervin,Cincinnati Reds,19,N,65,75,75,74,74
+529,Nick Senzel,Cincinnati Reds,19,N,67,74,79,77,75
+530,Josh VanMeter,Cincinnati Reds,19,N,65,70,75,74,74
+531,Joey Votto,Cincinnati Reds,19,N,76,66,71,79,79
+532,Freddy Galvis,Cincinnati Reds,19,N,78,66,69,78,79
+533,Eugenio Suarez,Cincinnati Reds,19,N,81,64,65,79,78
+534,Derek Dietrich,Cincinnati Reds,19,N,77,62,71,75,75
+535,Kyle Farmer,Cincinnati Reds,19,N,70,63,70,62,63
+536,Curt Casali,Cincinnati Reds,19,N,69,66,62,65,65
+537,Aristides Aquino,Cincinnati Reds,19,N,77,67,73,63,63
+538,Brian Anderson,Miami Marlins,19,R,73,78,70,82,82
+539,Harold Ramirez,Miami Marlins,19,N,67,77,71,75,77
+540,Starlin Castro,Miami Marlins,19,N,78,67,68,80,80
+541,Peter O'Brien,Miami Marlins,19,N,62,61,69,61,61
+542,Neil Walker,Miami Marlins,19,N,65,75,69,74,77
+543,Miguel Rojas,Miami Marlins,19,N,64,79,71,77,77
+544,Martin Prado,Miami Marlins,19,N,62,65,63,64,64
+545,Lewis Brinson,Miami Marlins,19,N,61,61,68,63,64
+546,Jorge Alfaro,Miami Marlins,19,N,77,65,66,77,76
+547,Jon Berti,Miami Marlins,19,N,64,75,82,74,75
+548,J.T. Riddle,Miami Marlins,19,N,67,61,64,62,62
+549,Isan Diaz,Miami Marlins,19,N,65,61,69,63,63
+550,Garrett Cooper,Miami Marlins,19,N,76,68,65,76,76
+551,Cesar Puello,Miami Marlins,19,N,65,64,64,62,62
+552,Curtis Granderson,Miami Marlins,19,N,73,62,67,66,66
+553,Brian Anderson,Miami Marlins,19,N,70,73,67,77,77
+554,Austin Dean,Miami Marlins,19,N,67,63,64,62,63
