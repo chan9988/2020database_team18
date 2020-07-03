@@ -21,24 +21,55 @@
 			<select name="year1">
 				<option></option>
 				<option> 2019 </option>
+				<option> 2018 </option>
 			</select>
 		    	team:
-			<select name="team_name">
+			<select name="team1">
 				<option></option>
 				<option>Lamigo</option>
-                <option>中信兄弟</option>
-                <option>統一獅</option>
-                <option>富邦悍將</option>
+                		<option>中信兄弟</option>
+                		<option>統一獅</option>
+				<option>富邦悍將</option>
+				<option>Arizona Diamondbacks</option>
+				<option>Atlanta Braves</option>
+				<option>Baltimore Orioles</option>
+				<option>Boston Red Sox</option>
+				<option>Chicago Cubs</option>
+				<option>Chicago White Sox</option>
+				<option>Cincinnati Reds</option>
+				<option>Cleveland Indians</option>
+				<option>Colorado Rockies</option>
+				<option>Detroit Tigers</option>
+				<option>Houston Astros</option>
+				<option>Kansas City</option>
+				<option>Los Angeles Angels</option>
+				<option>Los Angeles Dodgers</option>
+				<option>Miami Marlins</option>
+				<option>Milwaukee Brewers</option>
+				<option>Minnesota Twins</option>
+				<option>New York Mets</option>
+				<option>New York Yankees</option>
+				<option>Oakland Athletics</option>
+				<option>Philadelphia Phillies</option>
+				<option>Pittsburgh Pirates</option>
+				<option>San Diego Padres</option>
+				<option>San Francisco Giants</option>
+				<option>Seattle Mariners</option>
+				<option>St. Louis Cardinals</option>
+				<option>Tampa Bay Rays</option>
+				<option>Texas Rangers</option>
+				<option>Toronto Blue Jays</option>
+				<option>Washington Nationals</option>
 			</select>
 			player_name:
-			<select>
-			</select>
+			<INPUT type=text name="player1">
 		</p>
 		<p>Input player 2 information:</p>
 		<p> 	year:
 			<select name="year2">
 				<option></option>
 				<option> 2019 </option>
+				<option> 2018 </option>
 			</select>
 		    	team:
 			<select name="team2">
@@ -47,14 +78,40 @@
 				<option>中信兄弟</option>
 				<option>統一獅</option>
 				<option>富邦悍將</option>
+				<option>Arizona Diamondbacks</option>
+				<option>Atlanta Braves</option>
+				<option>Baltimore Orioles</option>
+				<option>Boston Red Sox</option>
+				<option>Chicago Cubs</option>
+				<option>Chicago White Sox</option>
+				<option>Cincinnati Reds</option>
+				<option>Cleveland Indians</option>
+				<option>Colorado Rockies</option>
+				<option>Detroit Tigers</option>
+				<option>Houston Astros</option>
+				<option>Kansas City</option>
+				<option>Los Angeles Angels</option>
+				<option>Los Angeles Dodgers</option>
+				<option>Miami Marlins</option>
+				<option>Milwaukee Brewers</option>
+				<option>Minnesota Twins</option>
+				<option>New York Mets</option>
+				<option>New York Yankees</option>
+				<option>Oakland Athletics</option>
+				<option>Philadelphia Phillies</option>
+				<option>Pittsburgh Pirates</option>
+				<option>San Diego Padres</option>
+				<option>San Francisco Giants</option>
+				<option>Seattle Mariners</option>
+				<option>St. Louis Cardinals</option>
+				<option>Tampa Bay Rays</option>
+				<option>Texas Rangers</option>
+				<option>Toronto Blue Jays</option>
+				<option>Washington Nationals</option>
 			</select>
-		    	player_name:
-			<select name="playername2">
-			</select>
+			player_name:
+			<INPUT type=text name="player2">
 		</p>
-		<p>Input the player id for query: <INPUT type=text name=ca> </p>
-                <p>Input the player id for query: <INPUT type=text name=cb> </p>
-                <p>Input the player id for query: <INPUT type=text name=cc> </p>	
 		<p><INPUT type=submit value="submit">
 		<INPUT type=reset value="clear"></p></FORM>
 		<footer>
