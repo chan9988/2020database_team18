@@ -97,15 +97,21 @@ create table 19CPBLFielding(
 
 create table 19MLBFielding(
 	player_name varchar(30),
-	team varchar(30),
+	team 	varchar(30),
 	year	int,
-	G		int,
-	PO		int,
-	A		int,
-	E		int
+	G	int,
+	GS	int,
+	CG	int,
+	Inn	float,
+	Ch	int,
+	PO	int,
+	A	int,
+	E	int,
+	DP	int,
+	Fld	float
 );
 
-load data local infile './19CPBLGame.csv'
+load data local infile './19CPBLGame_test.csv'
 into table 19CPBLGame
 fields terminated by ','
 enclosed by '"'
@@ -140,16 +146,9 @@ enclosed by '"'
 lines terminated by '\r\n'
 ignore 1 lines;
 
-
-
 load data local infile './19MLBFielding.csv'
-
 into table 19MLBFielding
-
 fields terminated by ','
-
 enclosed by '"'
-
 lines terminated by '\r\n'
-
 ignore 1 lines;
