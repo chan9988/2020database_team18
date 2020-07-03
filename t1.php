@@ -24,7 +24,8 @@
 		echo "year: <font color=\"red\"><b>$_POST[year1]</b></font> team: <font color=\"red\"><b>$_POST[team1]</b></font> player name: <font color=\"red\"><b>$_POST[player1]</b></font><br>";
 		echo "<h3><b>選擇的球員2:</b></h3>";
 		echo "year: <font color=\"red\"><b>$_POST[year2]</b></font> team: <font color=\"red\"><b>$_POST[team1]</b></font> player name: <font color=\"red\"><b>$_POST[player1]</b></font><br>";
-		echo "<h2>Result:</h2>";		
+		echo "<h2>Result:</h2>";
+		echo "<input type=\"button\" value=\"Retry\" onclick=\"location.href='database_project.php'\"><br>";
 		//$result1=$conn->query("select player_name from 19CPBLGame where player_id=$_POST[ca]");
                 //$result2=$conn->query("select player_name from 19CPBLGame where player_id = $_POST[cb]");
                	//$result3=$conn->query("Select player_name from 19CPBLGame where player_id = $_POST[cc]");
