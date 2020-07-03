@@ -1,15 +1,12 @@
 <HTML>
     <HEAD>
-		
         <meta charset="utf-8">
-		<title> database_project </title>
-		
+        <title> database_project </title>
 		<style>
-			body {background-color:#FFFFDE;}
-			footer {color:white;background:black;text-align:center}
-			footer {position:fixed; bottom:0px; left:0px; width:100%}
-		</style>
-		
+            body {background-color:#FFFFDE;}
+            footer {color:white;background:black;text-align:center}
+            footer {position:fixed; bottom:0px; left:0px; width:100%}
+        </style>
     </HEAD>
 	<BODY>
 		<h3>說明:</h3>
